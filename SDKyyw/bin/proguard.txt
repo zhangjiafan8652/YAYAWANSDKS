@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:63
+-keep class com.alipay.sdk.app.H5PayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.yayawan.sdk.Yinlian_Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class com.yayawan.sdk.jflogin.BaseLogin_Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class com.yayawan.sdk.jfsmallhelp.CropPhoto_Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.yayawan.sdk.jfsmallhelp.Push_feeling_Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.yayawan.sdkyyw.MainActivity { <init>(...); }
+

@@ -1,0 +1,27 @@
+# view AndroidManifest.xml #generated:72
+-keep class com.alipay.sdk.app.H5PayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class com.ipaynow.plugin.inner_plugin.wechat_plugin.activity.WeChatNotifyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class com.switfpass.pay.activity.QQWapPayWebView { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.yayawan.impl.YYApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.yayawan.sdk.Yinlian_Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.yayawan.sdk.jflogin.BaseLogin_Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class com.yayawan.sdk.jfsmallhelp.CropPhoto_Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.yayawan.sdk.jfsmallhelp.Push_feeling_Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class com.yayawan.sdkyyw.GameActivity { <init>(...); }
+

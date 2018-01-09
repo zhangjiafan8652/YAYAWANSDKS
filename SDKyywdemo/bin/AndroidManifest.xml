@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tencent.tmgp.yjxysml"
+    android:versionCode="2"
+    android:versionName="1" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="20" />
+
+       <!-- 丫丫玩sdk 必须权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <!-- 快捷支付必须的权限 -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.webkit.permission.PLUGIN" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="cn.swiftpass.wxpay.permission.MMOAUTH_CALLBACK" />
+    <uses-permission android:name="cn.swiftpass.wxpay.permission.MM_MESSAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="xvtian.gai.receiver" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <!-- 丫丫玩sdk 必须权限 -->
+
+
+    <!-- 注意:必须有YYapplication..如果自己有application..请继承YYapplication -->
+    <application
+        android:name="com.yayawan.impl.YYApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="com.ceshi.demo.GameActivity"
+            android:configChanges="keyboardHidden|navigation|orientation|screenSize"
+            android:label="sdkyyw"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 丫丫玩sdk 配置开始 -->
+
+   <!-- alipay sdk begin -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+        </activity>
+
+        <!-- BaseLogin_Activity 登录 -->
+        <activity
+            android:name="com.yayawan.sdk.jflogin.BaseLogin_Activity"
+            android:configChanges="keyboardHidden|navigation|orientation|screenSize"
+            android:theme="@android:style/Theme.Dialog" />
+        <!-- 头像上传 -->
+        <activity
+            android:name="com.yayawan.sdk.jfsmallhelp.CropPhoto_Activity"
+            android:configChanges="keyboardHidden|navigation|orientation|screenSize"
+            android:theme="@android:style/Theme.Translucent" >
+        </activity>
+        <!-- 发帖 -->
+        <activity
+            android:name="com.yayawan.sdk.jfsmallhelp.Push_feeling_Activity"
+            android:configChanges="keyboardHidden|navigation|screenSize|orientation" >
+        </activity>
+        <activity
+            android:name="com.yayawan.sdk.Yinlian_Activity"
+            android:configChanges="keyboardHidden|navigation|screenSize|orientation" >
+        </activity>
+        <activity
+            android:name="com.ipaynow.plugin.inner_plugin.wechat_plugin.activity.WeChatNotifyActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard|smallestScreenSize|locale|screenLayout|screenSize"
+            android:label="WeChatPayActivity"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.switfpass.pay.activity.QQWapPayWebView"
+            android:screenOrientation="portrait" />
+
+        <!-- yayawan_nochangecount设置为true这取消切换账号..除个别特殊游戏外.都不能取消切换账号这个选项 -->
+        <meta-data
+            android:name="yayawan_nochangecount"
+            android:value="false" />
+        
+          <!-- 丫丫玩平台提供的参数 -->
+        <meta-data
+            android:name="yayawan_game_id"
+            android:value="yaya1915834408" />
+       
+        <meta-data
+            android:name="yayawan_game_key"
+            android:value="4c328109f9a7e4dd6c90e98566cccf5d" />
+        <meta-data
+            android:name="yayawan_game_secret"
+            android:value="849cc51976066b1c8c6a21e687137237" />
+         <!-- 固定参数，不用修改 -->
+ 		<meta-data
+            android:name="union_id"
+            android:value="yaya1354981926" />
+        <!--
+        source_id渠道分包参数 
+     	默认 游戏名称的 首字母 拼接起来 加上 01
+		如魔龙勇士 就是 mlys01
+        -->
+        <meta-data
+            android:name="yayawan_source_id"
+            android:value="91" />
+        <meta-data
+            android:name="yayawan_version"
+            android:value="3.16.2" />
+
+        <!-- 横屏设置 -->
+
+        <meta-data
+            android:name="yayawan_orientation"
+            android:value="landscape" />
+        <!-- 竖屏设置 -->
+        <!--
+             <meta-data
+            android:name="yayawan_orientation"
+            android:value="portrait" />
+        -->
+
+
+        
+    <!-- 是否为调试模式 -->
+         <meta-data
+            android:name="isdebug"
+            android:value="true" /> 
+
+        <!-- 丫丫玩sdk 配置结束 -->
+        
+        
+        
+    </application>
+
+</manifest>
