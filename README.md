@@ -1,0 +1,3 @@
+# YAYAWANSDKS
+1.千其lib库工程目录yayawansdkversion1
+2.千果lib库工程目录qianguosdklib
