@@ -68,14 +68,7 @@
 
         <!-- 丫丫玩sdk 配置开始 -->
 
-   <!-- alipay sdk begin -->
-        <activity
-            android:name="com.alipay.sdk.app.H5PayActivity"
-            android:configChanges="orientation|keyboardHidden|navigation"
-            android:exported="false"
-            android:screenOrientation="behind"
-            android:windowSoftInputMode="adjustResize|stateHidden" >
-        </activity>
+  
 
         <!-- BaseLogin_Activity 登录 -->
         <activity
@@ -97,15 +90,7 @@
             android:name="com.yayawan.sdk.Yinlian_Activity"
             android:configChanges="keyboardHidden|navigation|screenSize|orientation" >
         </activity>
-        <activity
-            android:name="com.ipaynow.plugin.inner_plugin.wechat_plugin.activity.WeChatNotifyActivity"
-            android:configChanges="orientation|keyboardHidden|keyboard|smallestScreenSize|locale|screenLayout|screenSize"
-            android:label="WeChatPayActivity"
-            android:screenOrientation="behind"
-            android:theme="@android:style/Theme.Dialog" />
-        <activity
-            android:name="com.switfpass.pay.activity.QQWapPayWebView"
-            android:screenOrientation="portrait" />
+       
 
         <!-- yayawan_nochangecount设置为true这取消切换账号..除个别特殊游戏外.都不能取消切换账号这个选项 -->
         <meta-data
@@ -115,7 +100,7 @@
           <!-- 丫丫玩平台提供的参数 -->
         <meta-data
             android:name="yayawan_game_id"
-            android:value="yaya1915834408" />
+            android:value="yaya1371886277" />
        
         <meta-data
             android:name="yayawan_game_key"
@@ -137,7 +122,7 @@
             android:value="91" />
         <meta-data
             android:name="yayawan_version"
-            android:value="3.16.2" />
+            android:value="3.27" />
 
         <!-- 横屏设置 -->
 

@@ -353,11 +353,12 @@ public class CommonGameProxy implements YYWGameProxy {
 	@Override
 	public void logout(Activity paramActivity, YYWUserCallBack userCallBack) {
 		YYWMain.mUserCallBack = userCallBack;
-		this.mLogin.relogin(paramActivity, userCallBack, "relogin");
+		GameApitest.getGameApitestInstants(paramActivity).sendTest("logout");
+		//this.mLogin.relogin(paramActivity, userCallBack, "relogin");
 	}
 
 	public void logout(Activity paramActivity) {
-
+		GameApitest.getGameApitestInstants(paramActivity).sendTest("logout");
 		this.mUserManager.logout(paramActivity, null, null);
 	}
 
@@ -387,7 +388,7 @@ public class CommonGameProxy implements YYWGameProxy {
 		YYWMain.mOrder = order;
 
 		//判断是否小米渠道
-		if (DeviceUtil.isXiaomi(paramActivity)) {
+		if (DeviceUtil.isXiaomi(paramActivity)||DeviceUtil.getUnionid(paramActivity).equals("2958292331")) {
 			//判断是否选择过小米支付
 			if (WeiXinZhiFuBaoPay.isselectxiaomipay) {
 				this.mCharger = new ChargerImpl();
@@ -404,7 +405,7 @@ public class CommonGameProxy implements YYWGameProxy {
 			Yayalog.loger("未定义USE_YAYAPAY");
 			// e.printStackTrace();
 		}
-		if (temppay.equals("yes")) {
+		if (temppay.equals("yes")) { 
 			Yayalog.loger("payyy");
 			if (ISNEWPAY) {
 				Yayalog.loger("payyy");

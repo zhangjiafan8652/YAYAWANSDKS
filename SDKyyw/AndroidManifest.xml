@@ -48,6 +48,7 @@
         android:allowBackup="true"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen" 
         android:label="sdkyywdabao"
+        android:name="com.yayawan.impl.YYApplication"
         >
         
         <activity android:name="com.yayawan.sdkyyw.MainActivity" 
@@ -59,14 +60,8 @@
             </intent-filter>
         </activity>
 
-     <!-- alipay sdk begin -->
-        <activity
-            android:name="com.alipay.sdk.app.H5PayActivity"
-            android:configChanges="orientation|keyboardHidden|navigation"
-            android:exported="false"
-            android:screenOrientation="behind"
-            android:windowSoftInputMode="adjustResize|stateHidden" >
-        </activity>
+    
+    
 
         <!-- BaseLogin_Activity 登录 -->
         <activity

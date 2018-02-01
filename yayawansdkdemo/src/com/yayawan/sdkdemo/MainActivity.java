@@ -523,7 +523,7 @@ public class MainActivity extends Activity {
 	public void pay(View v) {
 		
 		
-		YYWOrder order = new YYWOrder(UUID.randomUUID().toString(), "霜之哀伤", 20l,
+		YYWOrder order = new YYWOrder(UUID.randomUUID().toString(), "霜之哀伤", 100l,
 				"");
 		
 		YaYaWan.getInstance().pay(this, order, new YYWPayCallBack() {

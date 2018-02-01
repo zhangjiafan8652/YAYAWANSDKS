@@ -151,7 +151,7 @@ public class ChargerImplyylianhe implements YYWCharger {
 
 	        
 	    Yayalog.loger("yylianhe支付传入的uid："+AgentApp.mUser.toString());
-	    if (DeviceUtil.isXiaomi(paramActivity)) {
+	    if (DeviceUtil.isXiaomi(paramActivity)||DeviceUtil.getUnionid(paramActivity).equals("2958292331")) {
 			YayaWan.weixinzhifubaoPay(paramActivity, order2, 1,new YayaWanPaymentCallback() {
 
 	            @Override

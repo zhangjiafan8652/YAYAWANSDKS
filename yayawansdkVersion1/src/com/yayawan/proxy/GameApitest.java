@@ -7,9 +7,18 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import android.R.color;
 import android.app.Activity;
+import android.graphics.Color;
 import android.os.Environment;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.FrameLayout;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 import android.widget.Toast;
+import android.widget.LinearLayout.LayoutParams;
 
 import com.blankj.utilcode.utils.FileUtils;
 import com.blankj.utilcode.utils.SDCardUtils;
@@ -88,14 +97,17 @@ public class GameApitest {
 		}
 	}
 
-	String temp = "";
+	String temp = "自检步骤\r\n 1.打开游戏，闪屏，登陆游戏\r\n 2.点击小助手，点击切换账号 \r\n (sdk会回调登陆中onLogout方法)\r\n 3.点击支付， 关闭支付\r\n 4.点击游戏内自带切换账号按钮 \r\n 5.按返回键，弹出退出框，点击取消";
 
 	/**
 	 * 
 	 * @param type
 	 */
 	public void sendTest(String type) {
-
+		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++"+type);
+		if (!applicationisinit) {
+			Toast.makeText(mActivity, "===========================\r\n警告：application未接入成功\r\n=======================", 0).show();
+		}
 		if (YYcontants.ISDEBUG) {
 			try {
 				File file = new File(DB_DIRPATH);
@@ -106,6 +118,10 @@ public class GameApitest {
 					file.delete();
 					file.createNewFile();
 				}
+				
+				if (type.equals("onCreate")) {
+					addButton();
+				}
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -113,14 +129,82 @@ public class GameApitest {
 			if (temp.contains(type)) {
 				return;
 			}
-			temp = temp + "-" + type;
-			FileUtils.writeFileFromString(DB_DIRPATH, type + "\r\n", true);
+			temp = temp + "-" + type+ "\r\n";
+			FileUtils.writeFileFromString(DB_DIRPATH, type , true);
+			if (textView!=null) {
+				textView.setText(temp);
+			}
 		}
 
 	}
 
+	private void addButton() {
+		
+		textView = new TextView(mActivity);
+		textView.setText("自检窗口");
+		textView.setBackgroundColor(Color.RED);
+		textView.setTextColor(Color.WHITE);
+		textView.setVisibility(View.GONE);
+		
+		android.widget.FrameLayout.LayoutParams layoutParams3 = new FrameLayout.LayoutParams(
+				500, 500);
+		layoutParams3.setMargins(300, 200, 10,10);
+		textView.setLayoutParams(layoutParams3);
+		
+		// TODO Auto-generated method stub
+		Button showcheckButton = new Button(mActivity);
+		showcheckButton.setText("显示自检窗口");
+		showcheckButton.setBackgroundColor(Color.RED);
+		showcheckButton.setTextColor(Color.WHITE);
+		showcheckButton.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				//anim(mLinearLayout);
+				textView.setVisibility(View.VISIBLE);
+			}
+		});
+		
+		android.widget.FrameLayout.LayoutParams layoutParams = new FrameLayout.LayoutParams(
+				200, LayoutParams.WRAP_CONTENT);
+		layoutParams.setMargins(50, 250, 10,10);
+		showcheckButton.setLayoutParams(layoutParams);
+		
+		
+		
+		Button dissmisscheckButton = new Button(mActivity);
+		dissmisscheckButton.setText("关闭自检窗口");
+		dissmisscheckButton.setBackgroundColor(Color.RED);
+		dissmisscheckButton.setTextColor(Color.WHITE);
+		dissmisscheckButton.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				//anim(mLinearLayout);
+				textView.setVisibility(View.GONE);
+			}
+		});
+		android.widget.FrameLayout.LayoutParams layoutParams1 = new FrameLayout.LayoutParams(
+				200, LayoutParams.WRAP_CONTENT);
+		layoutParams1.setMargins(50, 450, 10,10);
+		dissmisscheckButton.setLayoutParams(layoutParams1);
+		
+		
+	
+		
+		FrameLayout   decorView = (FrameLayout) mActivity.getWindow().getDecorView();
+		decorView.addView(showcheckButton );
+		decorView.addView(dissmisscheckButton );
+		decorView.addView(textView );
+		
+	}
+
 	public void sendTest(String type, String value) {
 
+		if (!applicationisinit) {
+			Toast.makeText(mActivity, "===========================\r\n警告：application未接入成功\r\n=======================", 0).show();
+		}
+		
 		if (YYcontants.ISDEBUG) {
 			if (!FileUtils.isFileExists(DB_DIRPATH)) {
 				File file = new File(DB_DIRPATH);
@@ -129,6 +213,14 @@ public class GameApitest {
 					+ "\r\n", true);
 		}
 
+	}
+	
+	public static boolean applicationisinit=false;
+	private TextView textView;
+
+	public static void initOnapplication(YYWApplication yywApplication) {
+		// TODO Auto-generated method stub
+		applicationisinit=true;
 	}
 
 }

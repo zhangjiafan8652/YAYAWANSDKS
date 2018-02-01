@@ -56,7 +56,7 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="丫丫玩demoyyw"
-        android:name="com.yayawan.proxy.YYWApplication"
+        android:name="com.yayawan.impl.YYApplication"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.yayawan.sdkdemo.MainActivity"
@@ -99,7 +99,11 @@
             android:name="com.yayawan.sdk.Yinlian_Activity"
             android:configChanges="keyboardHidden|navigation|screenSize|orientation" >
         </activity>
-       
+         <activity
+            android:name="com.yayawan.sdk.jfpay.XiaoMipayActivity"
+            android:configChanges="keyboardHidden|navigation|screenSize|orientation"
+            android:theme="@style/dialogstyle"  >
+        </activity>
         <activity
             android:name="com.switfpass.pay.activity.QQWapPayWebView"
             android:screenOrientation="portrait" />
@@ -127,18 +131,24 @@
        <!--  <meta-data
             android:name="yayawan_game_id"
             android:value="yaya528510699" /> -->
-       
+         
         
      <meta-data
             android:name="yayawan_game_id"
-            android:value="yaya3796300436" />
+            android:value="yaya528510699" />
             
-          <!--    <meta-data
-            android:name="union_id"
-            android:value="yaya2958292331" />  -->
         <meta-data
             android:name="union_id"
-            android:value="yaya1354981926" />  
+            android:value="yaya2958292331" />  
+       <!--  <meta-data
+            android:name="union_id"
+            android:value="yaya1354981926" />   -->
+            
+             <meta-data
+            android:name="moneyname"
+            android:value="元宝" />  
+            
+            
         <meta-data
             android:name="yayawan_game_key"
             android:value="2739ae4cb1db672afaf6f93c04031ad5" />

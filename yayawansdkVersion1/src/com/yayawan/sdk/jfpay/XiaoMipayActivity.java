@@ -7,6 +7,7 @@ import android.widget.Toast;
 import com.yayawan.sdk.base.AgentApp;
 import com.yayawan.sdk.domain.Order;
 import com.yayawan.sdk.jfpay.XiaomiPayxml.XiaomiPayListener;
+import com.yayawan.sdk.jfpay.YingYongBaoPayxml.YingyongbaoListener;
 import com.yayawan.sdk.main.YayaWan;
 import com.yayawan.utils.DeviceUtil;
 
@@ -16,6 +17,12 @@ public class XiaoMipayActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		
+		System.out.println(DeviceUtil.getUnionid(this));
+		if (DeviceUtil.getUnionid(this).equals("2958292331")) {
+			StartYingBaoPay();
+		}else{
+		
 		 xiaomiPayxml = new XiaomiPayxml(this);
 		//View initViewxml = new XiaomiPayxml(this).initViewxml();
 		setContentView(xiaomiPayxml.initViewxml());
@@ -44,7 +51,48 @@ public class XiaoMipayActivity extends Activity {
 				}
 				
 				
-			}
-		});
+				}
+			});
+		
+		}
 	}
+	
+	YingYongBaoPayxml yingyongbaoPayxml ;
+	private void StartYingBaoPay() {
+		// TODO Auto-generated method stub
+		 yingyongbaoPayxml = new YingYongBaoPayxml(this);
+			//View initViewxml = new XiaomiPayxml(this).initViewxml();
+		setContentView(yingyongbaoPayxml.initViewxml());
+		
+		
+		yingyongbaoPayxml.setPrice(Integer.parseInt(AgentApp.mPayOrder.money/100+""));
+		
+	//	String gamename=DeviceUtil.getGameInfo(getApplicationContext(), "gamename");
+		String moneyname=DeviceUtil.getGameInfo(getApplicationContext(), "moneyname");
+		//yingyongbaoPayxml.setGoodsText(gamename+"-"+moneyname);
+		yingyongbaoPayxml.addXiaomiPayListener(new YingyongbaoListener() {
+			
+			@Override
+			public void onGoToPay(int selectpaytype) {
+				// TODO Auto-generated method stub
+				System.out.println(selectpaytype);
+				if (selectpaytype==yingyongbaoPayxml.ALIPAY) {
+					WeiXinZhiFuBaoPay weiXinZhiFuBaoPay = new WeiXinZhiFuBaoPay(XiaoMipayActivity.this, AgentApp.mPayOrder,WeiXinZhiFuBaoPay.ALIPAY , YayaWan.mPaymentCallback);
+					weiXinZhiFuBaoPay.weiXinpay();
+				}else if(selectpaytype==yingyongbaoPayxml.WEIXINPAY){
+					WeiXinZhiFuBaoPay weiXinZhiFuBaoPay = new WeiXinZhiFuBaoPay(XiaoMipayActivity.this, AgentApp.mPayOrder,WeiXinZhiFuBaoPay.WEIXINPAY , YayaWan.mPaymentCallback);
+					weiXinZhiFuBaoPay.weiXinpay();
+				}else {
+					//选择了小米支付，就把界面关闭，以后都不会打开了
+					WeiXinZhiFuBaoPay.isselectxiaomipay=true;
+					Toast.makeText(XiaoMipayActivity.this, "支付更新完毕，请重新点击商品", Toast.LENGTH_LONG).show();
+					finish();
+				}
+				
+				
+				}
+			});
+	}
+	
+	
 }
