@@ -1,0 +1,676 @@
+
+2018-01-22 16:10:28
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 16:10:29
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 16:11:39
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 16:11:40
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 16:12:15
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 16:12:15
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 16:19:44
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 16:19:45
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 16:20:17
+[WARN]-[Thread: qtp1338352377-17]-[com.demo.admin.AdminController.addmotherpackage()]: 11111111111111+++++++qqqqqqqqqqq
+
+2018-01-22 16:20:17
+[INFO]-[Thread: qtp1338352377-17]-[com.demo.admin.AdminController.addmotherpackage()]: 11111111111111+++++++{"mothergameplatformid":"yaya2717214540","mothergamename":"仙之剑","apkpath":"repackapkapp\\仙之剑.apk","mothergamesocurceid":"xzjm01","mothergamepackagename":"com.keyue.zxyayawanunique","mothergamebelongprojectname":"2"}
+
+2018-01-22 16:24:38
+[WARN]-[Thread: qtp1338352377-19]-[com.demo.admin.AdminController.addmotherpackage()]: 11111111111111+++++++qqqqqqqqqqq
+
+2018-01-22 16:24:38
+[INFO]-[Thread: qtp1338352377-19]-[com.demo.admin.AdminController.addmotherpackage()]: 11111111111111+++++++{"mothergameplatformid":"yaya2717214540","mothergamename":"仙之剑","apkpath":"repackapkapp\\仙之剑.apk","mothergamesocurceid":"xzjm01","mothergamepackagename":"com.keyue.zxyayawanunique","mothergamebelongprojectname":"青云决"}
+
+2018-01-22 16:26:08
+[INFO]-[Thread: qtp1338352377-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}]
+
+2018-01-22 16:29:17
+[INFO]-[Thread: qtp1338352377-20]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 16:40:32
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 16:40:32
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 16:40:47
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 16:40:47
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 16:59:33
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 16:59:34
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:00:18
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 17:00:19
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:10:58
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:11:10
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:11:47
+[INFO]-[Thread: qtp675137585-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:11:52
+[ERROR]-[Thread: qtp675137585-21]-[com.jfinal.core.ActionHandler.handle()]: /admin/addtopacking
+com.jfinal.plugin.activerecord.ActiveRecordException: java.sql.SQLException: Field 'gamebelongprojectname' doesn't have a default value
+	at com.jfinal.plugin.activerecord.Model.save(Model.java:457)
+	at com.demo.admin.AdminController.addtopacking(AdminController.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.content(AbstractHttpConnection.java:937)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:998)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:856)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:240)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.sql.SQLException: Field 'gamebelongprojectname' doesn't have a default value
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:964)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2487)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2079)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2013)
+	at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5104)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1998)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.executeUpdate(DruidPooledPreparedStatement.java:253)
+	at com.jfinal.plugin.activerecord.Model.save(Model.java:452)
+	... 35 more
+
+2018-01-22 17:15:10
+[INFO]-[Thread: qtp675137585-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:15:26
+[INFO]-[Thread: qtp675137585-21]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:18:02
+[ERROR]-[Thread: qtp675137585-18]-[com.jfinal.core.ActionHandler.handle()]: /admin/addtopacking
+java.lang.NullPointerException
+	at com.demo.admin.AdminController.addtopacking(AdminController.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.content(AbstractHttpConnection.java:937)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:998)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:856)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:240)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+
+2018-01-22 17:20:55
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 17:20:56
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:21:09
+[INFO]-[Thread: qtp675137585-22]-[com.demo.admin.AdminController.addtopacking()]: 
+
+2018-01-22 17:21:09
+[ERROR]-[Thread: qtp675137585-22]-[com.jfinal.core.ActionHandler.handle()]: /admin/addtopacking
+java.lang.NullPointerException
+	at com.demo.admin.AdminController.addtopacking(AdminController.java:177)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.content(AbstractHttpConnection.java:937)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:998)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:856)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:240)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+
+2018-01-22 17:22:16
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 17:22:17
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:22:21
+[INFO]-[Thread: qtp675137585-21]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-22 16:24:38.0, mothergameplatformid:yaya2717214540, apkpath:repackapkapp\仙之剑.apk, mothergamename:仙之剑, mothergamesocurceid:xzjm01, mothergamepackagename:com.keyue.zxyayawanunique, motherpackageid:6, mothergamebelongprojectname:青云决, belongcompany:1}
+
+2018-01-22 17:25:58
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 17:25:59
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:28:14
+[INFO]-[Thread: qtp675137585-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:28:18
+[INFO]-[Thread: qtp675137585-17]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-22 16:24:38.0, mothergameplatformid:yaya2717214540, apkpath:repackapkapp\仙之剑.apk, mothergamename:仙之剑, mothergamesocurceid:xzjm01, mothergamepackagename:com.keyue.zxyayawanunique, motherpackageid:6, mothergamebelongprojectname:青云决, belongcompany:1}
+
+2018-01-22 17:29:33
+[INFO]-[Thread: qtp675137585-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:29:36
+[INFO]-[Thread: qtp675137585-22]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-22 16:24:38.0, mothergameplatformid:yaya2717214540, apkpath:repackapkapp\仙之剑.apk, mothergamename:仙之剑, mothergamesocurceid:xzjm01, mothergamepackagename:com.keyue.zxyayawanunique, motherpackageid:6, mothergamebelongprojectname:青云决, belongcompany:1}
+
+2018-01-22 17:30:14
+[INFO]-[Thread: qtp675137585-19]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-22 16:24:38.0, mothergameplatformid:yaya2717214540, apkpath:repackapkapp\仙之剑.apk, mothergamename:仙之剑, mothergamesocurceid:xzjm01, mothergamepackagename:com.keyue.zxyayawanunique, motherpackageid:6, mothergamebelongprojectname:青云决, belongcompany:1}
+
+2018-01-22 17:32:12
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 17:32:13
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:39:57
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 17:39:57
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:40:01
+[INFO]-[Thread: qtp675137585-18]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-22 17:42:18
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 17:42:19
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:43:10
+[INFO]-[Thread: qtp675137585-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:43:14
+[INFO]-[Thread: qtp675137585-17]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-22 16:24:38.0, mothergameplatformid:yaya2717214540, apkpath:repackapkapp\仙之剑.apk, mothergamename:仙之剑, mothergamesocurceid:xzjm01, mothergamepackagename:com.keyue.zxyayawanunique, motherpackageid:6, mothergamebelongprojectname:青云决, belongcompany:1}
+
+2018-01-22 17:43:20
+[INFO]-[Thread: qtp675137585-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:45:34
+[INFO]-[Thread: qtp675137585-22]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:51:34
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 17:51:35
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 17:51:40
+[INFO]-[Thread: qtp675137585-20]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:51:42
+[INFO]-[Thread: qtp675137585-21]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-22 16:24:38.0, mothergameplatformid:yaya2717214540, apkpath:repackapkapp\仙之剑.apk, mothergamename:仙之剑, mothergamesocurceid:xzjm01, mothergamepackagename:com.keyue.zxyayawanunique, motherpackageid:6, mothergamebelongprojectname:青云决, belongcompany:1}
+
+2018-01-22 17:51:49
+[INFO]-[Thread: qtp675137585-19]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:54:18
+[INFO]-[Thread: qtp675137585-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 17:54:24
+[INFO]-[Thread: qtp675137585-18]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-22 16:24:38.0, mothergameplatformid:yaya2717214540, apkpath:repackapkapp\仙之剑.apk, mothergamename:仙之剑, mothergamesocurceid:xzjm01, mothergamepackagename:com.keyue.zxyayawanunique, motherpackageid:6, mothergamebelongprojectname:青云决, belongcompany:1}
+
+2018-01-22 17:54:28
+[INFO]-[Thread: qtp675137585-17]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:03:15
+[INFO]-[Thread: qtp675137585-17]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-19 16:36:57.0, update_time:2018-01-19 16:36:57.0, projectname:文磊, projectid:9, belongcompany:1}]
+
+2018-01-22 18:03:24
+[INFO]-[Thread: qtp675137585-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:03:32
+[INFO]-[Thread: qtp675137585-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:34:07
+[INFO]-[Thread: qtp675137585-22]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:34:44
+[INFO]-[Thread: qtp675137585-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:35:56
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 18:35:57
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 18:36:03
+[INFO]-[Thread: qtp675137585-17]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:55:28
+[INFO]-[Thread: qtp675137585-18]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:55:28
+[ERROR]-[Thread: qtp675137585-18]-[com.jfinal.core.ActionHandler.handle()]: /admin/packingindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: "x" can not be null for accessed by "x.packinglistid"
+Template: "/admin/packinglistindex.html". Line: 223
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: "x" can not be null for accessed by "x.packinglistid"
+Template: "/admin/packinglistindex.html". Line: 223
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:66)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-22 18:56:13
+[INFO]-[Thread: qtp675137585-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:56:13
+[ERROR]-[Thread: qtp675137585-20]-[com.jfinal.core.ActionHandler.handle()]: /admin/packingindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: "x" can not be null for accessed by "x.packinglistid"
+Template: "/admin/packinglistindex.html". Line: 114
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: "x" can not be null for accessed by "x.packinglistid"
+Template: "/admin/packinglistindex.html". Line: 114
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:66)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-22 18:56:53
+[INFO]-[Thread: qtp675137585-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:56:53
+[ERROR]-[Thread: qtp675137585-20]-[com.jfinal.core.ActionHandler.handle()]: /admin/packingindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: "x" can not be null for accessed by "x.packinglistid"
+Template: "/admin/packinglistindex.html". Line: 114
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: "x" can not be null for accessed by "x.packinglistid"
+Template: "/admin/packinglistindex.html". Line: 114
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:66)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-22 18:58:48
+[INFO]-[Thread: qtp675137585-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:58:53
+[INFO]-[Thread: qtp675137585-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 18:58:53
+[ERROR]-[Thread: qtp675137585-21]-[com.jfinal.core.ActionHandler.handle()]: /admin/packingindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: "x" can not be null for accessed by "x.packinglistid"
+Template: "/admin/packinglistindex.html". Line: 114
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: "x" can not be null for accessed by "x.packinglistid"
+Template: "/admin/packinglistindex.html". Line: 114
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:66)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-22 19:05:18
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 19:05:28
+[INFO]-[Thread: qtp1338352377-17]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:05:28
+[ERROR]-[Thread: qtp1338352377-17]-[com.jfinal.core.ActionHandler.handle()]: /admin/packingindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: "x" can not be null for accessed by "x.packinglistid"
+Template: "/admin/packinglistindex.html". Line: 112
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: "x" can not be null for accessed by "x.packinglistid"
+Template: "/admin/packinglistindex.html". Line: 112
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:66)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-22 19:06:22
+[INFO]-[Thread: qtp1338352377-22]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:06:30
+[ERROR]-[Thread: qtp1338352377-17]-[com.jfinal.core.ActionHandler.handle()]: /admin/packingindex?companyid=companyid&packingid=packingid
+java.lang.NumberFormatException: For input string: "companyid"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.demo.admin.AdminController.packingindex(AdminController.java:205)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+
+2018-01-22 19:07:44
+[INFO]-[Thread: qtp1338352377-19]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:07:46
+[INFO]-[Thread: qtp1338352377-19]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, mothergameplatformid:null, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, mothergameplatformid:yaya2717214540, ispacked:0, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:08:30
+[INFO]-[Thread: qtp1338352377-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, ispacked:0, mothergameplatformid:null, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:10:00
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-22 19:10:01
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-22 19:10:03
+[INFO]-[Thread: qtp1338352377-19]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, ispacked:0, mothergameplatformid:null, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:10:07
+[INFO]-[Thread: qtp1338352377-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, ispacked:0, mothergameplatformid:null, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:11:13
+[INFO]-[Thread: qtp1338352377-17]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:43:14.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:43:14.0, ispacked:0, mothergameplatformid:null, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:5, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:11:16
+[INFO]-[Thread: qtp1338352377-18]-[com.demo.admin.AdminController.deletepackinglist()]: 删除打包item成功：true
+
+2018-01-22 19:11:16
+[INFO]-[Thread: qtp1338352377-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:51:42.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:51:42.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:6, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:11:20
+[INFO]-[Thread: qtp1338352377-19]-[com.demo.admin.AdminController.deletepackinglist()]: 删除打包item成功：true
+
+2018-01-22 19:11:20
+[INFO]-[Thread: qtp1338352377-17]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 17:54:24.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 17:54:24.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:7, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:11:22
+[INFO]-[Thread: qtp1338352377-19]-[com.demo.admin.AdminController.deletepackinglist()]: 删除打包item成功：true
+
+2018-01-22 19:11:22
+[INFO]-[Thread: qtp1338352377-22]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-22 19:11:25
+[INFO]-[Thread: qtp1338352377-19]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-22 19:11:28
+[INFO]-[Thread: qtp1338352377-19]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-22 16:24:38.0, mothergameplatformid:yaya2717214540, apkpath:repackapkapp\仙之剑.apk, mothergamename:仙之剑, mothergamesocurceid:xzjm01, mothergamepackagename:com.keyue.zxyayawanunique, motherpackageid:6, mothergamebelongprojectname:青云决, belongcompany:1}
+
+2018-01-22 19:11:32
+[INFO]-[Thread: qtp1338352377-19]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 19:11:28.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 19:11:28.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:8, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]

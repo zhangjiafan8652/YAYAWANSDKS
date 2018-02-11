@@ -178,6 +178,14 @@ public class ViewConstants {
 	 * 
 	 * 
 	 */
+	/**
+	 * 3.30 2018.2.7 
+	 * 
+	 * 1.更改客服qq
+	 * 
+	 * 
+	 * 
+	 */
 
 	public static final String SDKVERSION = 3.2 + "9千其";
 	public static final int LOGIN_VIEW = 1;

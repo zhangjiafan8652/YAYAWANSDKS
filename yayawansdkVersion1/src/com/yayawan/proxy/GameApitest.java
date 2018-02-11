@@ -9,6 +9,7 @@ import org.json.JSONObject;
 
 import android.R.color;
 import android.app.Activity;
+import android.content.Context;
 import android.graphics.Color;
 import android.os.Environment;
 import android.view.View;
@@ -27,21 +28,25 @@ import com.yayawan.main.YYWMain;
 import com.yayawan.sdk.account.db.SDBHelper;
 import com.yayawan.sdk.jflogin.ViewConstants;
 import com.yayawan.sdk.jfutils.Yayalog;
+import com.yayawan.sdk.jfxml.Basexml;
 import com.yayawan.sdk.utils.DeviceUtil;
 
 public class GameApitest {
 
+	
+
 	public static GameApitest mGameapitest;
 	public static Activity mActivity;
+	public static Context mContext;
 
-	public static Yibuhttputils yibuhttputils;
+	
 
 	public static String TestFilePath = "test";
-
+	public static String Rootpath=SDBHelper.Rootpath;
 	public static String DB_DIRPATH = Environment.getExternalStorageDirectory()
 			.getPath()
 			+ File.separator
-			+ "yayaUserData"
+			+ Rootpath
 			+ File.separator
 			+ TestFilePath + File.separator + "test.log";
 
@@ -50,7 +55,7 @@ public class GameApitest {
 	public static String DB_DIR = Environment.getExternalStorageDirectory()
 			.getPath()
 			+ File.separator
-			+ "yayaUserData"
+			+ Rootpath
 			+ File.separator
 			+ TestFilePath;
 	static {
@@ -58,11 +63,11 @@ public class GameApitest {
 		if (Environment.getExternalStorageState().equals(
 				Environment.MEDIA_MOUNTED)) {
 			DB_DIR = Environment.getExternalStorageDirectory().getPath()
-					+ File.separator + "yayaUserData" + File.separator
+					+ File.separator + Rootpath + File.separator
 					+ TestFilePath;
 		} else {
 			DB_DIR = Environment.getRootDirectory().getPath() + File.separator
-					+ "yayaUserData" + File.separator + TestFilePath;
+					+ Rootpath + File.separator + TestFilePath;
 		}
 
 		File dbFolder = new File(DB_DIR);
@@ -72,6 +77,7 @@ public class GameApitest {
 	}
 
 	public static GameApitest getGameApitestInstants(Activity mactivity) {
+		mActivity = mactivity;
 		if (mGameapitest != null) {
 			mActivity = mactivity;
 
@@ -84,6 +90,22 @@ public class GameApitest {
 			return mGameapitest;
 		}
 	}
+	
+	public static GameApitest getGameApitestInstants(Context applicationContext) {
+		// TODO Auto-generated method stub
+		if (mGameapitest != null) {
+			mContext = applicationContext;
+
+			return mGameapitest;
+		} else {
+			mContext = applicationContext;
+
+			mGameapitest = new GameApitest();
+
+			return mGameapitest;
+		}
+	}
+
 
 	public static GameApitest getGameApitestInstants() {
 		if (mGameapitest != null) {
@@ -105,9 +127,16 @@ public class GameApitest {
 	 */
 	public void sendTest(String type) {
 		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++"+type);
-		if (!applicationisinit) {
-			Toast.makeText(mActivity, "===========================\r\n警告：application未接入成功\r\n=======================", 0).show();
+		
+		if (mActivity!=null) {
+			if (com.yayawan.utils.DeviceUtil.isDebug(mActivity)) {
+				if (!applicationisinit) {
+					Toast.makeText(mActivity, "===========================\r\n警告：application未接入成功\r\n=======================", 0).show();
+				}
+			}
 		}
+		
+		
 		if (YYcontants.ISDEBUG) {
 			try {
 				File file = new File(DB_DIRPATH);
@@ -201,9 +230,14 @@ public class GameApitest {
 
 	public void sendTest(String type, String value) {
 
-		if (!applicationisinit) {
-			Toast.makeText(mActivity, "===========================\r\n警告：application未接入成功\r\n=======================", 0).show();
+		if (mActivity!=null) {
+			if (com.yayawan.utils.DeviceUtil.isDebug(mActivity)) {
+				if (!applicationisinit) {
+					Toast.makeText(mActivity, "===========================\r\n警告：application未接入成功\r\n=======================", 0).show();
+				}
+			}
 		}
+		
 		
 		if (YYcontants.ISDEBUG) {
 			if (!FileUtils.isFileExists(DB_DIRPATH)) {
@@ -223,4 +257,5 @@ public class GameApitest {
 		applicationisinit=true;
 	}
 
+	
 }

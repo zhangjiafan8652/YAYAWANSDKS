@@ -1,0 +1,671 @@
+
+2018-01-26 09:56:12
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:13:53
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:13:54
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:17:25
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:17:26
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:17:51
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:17:51
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:18:16
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:18:16
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:35:36
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:35:37
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:40:58
+[ERROR]-[Thread: qtp1831325841-24]-[com.jfinal.core.ActionHandler.handle()]: /admin
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: "mcompany" can not be null for accessed by "mcompany.companyid"
+Template: "/common/_menulayout.html". Line: 310
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: "mcompany" can not be null for accessed by "mcompany.companyid"
+Template: "/common/_menulayout.html". Line: 310
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:66)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-26 11:42:05
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:42:06
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:42:10
+[ERROR]-[Thread: qtp1831325841-23]-[com.jfinal.core.ActionHandler.handle()]: /admin
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: Field not found: "mcompany.companyid" and getter method not found: "mcompany.getCompanyid()"
+Template: "/common/_menulayout.html". Line: 310
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: Field not found: "mcompany.companyid" and getter method not found: "mcompany.getCompanyid()"
+Template: "/common/_menulayout.html". Line: 310
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:116)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-26 11:43:36
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:43:37
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:43:39
+[ERROR]-[Thread: qtp1831325841-22]-[com.jfinal.core.ActionHandler.handle()]: /admin
+java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.demo.admin.AdminController.index(AdminController.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+
+2018-01-26 11:43:53
+[ERROR]-[Thread: qtp1831325841-21]-[com.jfinal.core.ActionHandler.handle()]: /admin
+java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.demo.admin.AdminController.index(AdminController.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+
+2018-01-26 11:44:11
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:44:12
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:44:19
+[ERROR]-[Thread: qtp1831325841-24]-[com.jfinal.core.ActionHandler.handle()]: /admin
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: Field not found: "mcompany.companyid" and getter method not found: "mcompany.getCompanyid()"
+Template: "/common/_menulayout.html". Line: 310
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: Field not found: "mcompany.companyid" and getter method not found: "mcompany.getCompanyid()"
+Template: "/common/_menulayout.html". Line: 310
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:116)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-26 11:57:04
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:57:05
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:57:05
+[ERROR]-[Thread: JFinal-Scanner]-[com.jfinal.kit.LogKit.error()]: Identifier can not be java keyword : if
+Template: "/common/_menulayout.html". Line: 310
+com.jfinal.template.stat.ParseException: Identifier can not be java keyword : if
+Template: "/common/_menulayout.html". Line: 310
+	at com.jfinal.template.expr.ExprLexer.scanId(ExprLexer.java:110)
+	at com.jfinal.template.expr.ExprLexer.scan(ExprLexer.java:67)
+	at com.jfinal.template.expr.ExprParser.parse(ExprParser.java:113)
+	at com.jfinal.template.expr.ExprParser.parseExprList(ExprParser.java:98)
+	at com.jfinal.template.stat.Parser.parseExprList(Parser.java:249)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:131)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:175)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.parse(Parser.java:91)
+	at com.jfinal.template.EngineConfig.doAddSharedFunction(EngineConfig.java:92)
+	at com.jfinal.template.EngineConfig.addSharedFunction(EngineConfig.java:87)
+	at com.jfinal.template.Engine.addSharedFunction(Engine.java:238)
+	at com.demo.common.DemoConfig.configEngine(DemoConfig.java:68)
+	at com.jfinal.core.Config.configJFinal(Config.java:53)
+	at com.jfinal.core.JFinal.init(JFinal.java:63)
+	at com.jfinal.core.JFinalFilter.init(JFinalFilter.java:49)
+	at org.eclipse.jetty.servlet.FilterHolder.doStart(FilterHolder.java:119)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:724)
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:265)
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1250)
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:706)
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:492)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at com.jfinal.server.JettyServer$1.onChange(JettyServer.java:119)
+	at com.jfinal.server.Scanner.compare(Scanner.java:88)
+	at com.jfinal.server.Scanner.working(Scanner.java:57)
+	at com.jfinal.server.Scanner.access$000(Scanner.java:31)
+	at com.jfinal.server.Scanner$1.run(Scanner.java:94)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+2018-01-26 11:57:50
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:57:50
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:57:50
+[ERROR]-[Thread: JFinal-Scanner]-[com.jfinal.kit.LogKit.error()]: Identifier can not be java keyword : if
+Template: "/common/_menulayout.html". Line: 310
+com.jfinal.template.stat.ParseException: Identifier can not be java keyword : if
+Template: "/common/_menulayout.html". Line: 310
+	at com.jfinal.template.expr.ExprLexer.scanId(ExprLexer.java:110)
+	at com.jfinal.template.expr.ExprLexer.scan(ExprLexer.java:67)
+	at com.jfinal.template.expr.ExprParser.parse(ExprParser.java:113)
+	at com.jfinal.template.expr.ExprParser.parseExprList(ExprParser.java:98)
+	at com.jfinal.template.stat.Parser.parseExprList(Parser.java:249)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:131)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:175)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.parse(Parser.java:91)
+	at com.jfinal.template.EngineConfig.doAddSharedFunction(EngineConfig.java:92)
+	at com.jfinal.template.EngineConfig.addSharedFunction(EngineConfig.java:87)
+	at com.jfinal.template.Engine.addSharedFunction(Engine.java:238)
+	at com.demo.common.DemoConfig.configEngine(DemoConfig.java:68)
+	at com.jfinal.core.Config.configJFinal(Config.java:53)
+	at com.jfinal.core.JFinal.init(JFinal.java:63)
+	at com.jfinal.core.JFinalFilter.init(JFinalFilter.java:49)
+	at org.eclipse.jetty.servlet.FilterHolder.doStart(FilterHolder.java:119)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:724)
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:265)
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1250)
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:706)
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:492)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at com.jfinal.server.JettyServer$1.onChange(JettyServer.java:119)
+	at com.jfinal.server.Scanner.compare(Scanner.java:88)
+	at com.jfinal.server.Scanner.working(Scanner.java:57)
+	at com.jfinal.server.Scanner.access$000(Scanner.java:31)
+	at com.jfinal.server.Scanner$1.run(Scanner.java:94)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+2018-01-26 11:59:41
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 11:59:41
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 11:59:47
+[ERROR]-[Thread: qtp1831325841-23]-[com.jfinal.core.ActionHandler.handle()]: /admin
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: Field not found: "mcompany.companyid" and getter method not found: "mcompany.getCompanyid()"
+Template: "/common/_menulayout.html". Line: 311
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: Field not found: "mcompany.companyid" and getter method not found: "mcompany.getCompanyid()"
+Template: "/common/_menulayout.html". Line: 311
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:116)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.If.exec(If.java:54)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-26 12:00:51
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 12:00:52
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 12:02:27
+[INFO]-[Thread: qtp1831325841-22]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 12:03:38
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 12:03:39
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 12:05:04
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 12:05:05
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 12:05:06
+[ERROR]-[Thread: qtp1831325841-25]-[com.jfinal.core.ActionHandler.handle()]: /admin
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: Field not found: "mcompany.companyid" and getter method not found: "mcompany.getCompanyid()"
+Template: "/common/_menulayout.html". Line: 311
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: Field not found: "mcompany.companyid" and getter method not found: "mcompany.getCompanyid()"
+Template: "/common/_menulayout.html". Line: 311
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:116)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.If.exec(If.java:54)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-26 15:42:04
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 15:42:05
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 15:42:05
+[ERROR]-[Thread: JFinal-Scanner]-[com.jfinal.kit.LogKit.error()]: Can not match the #end of directive #menulayout
+Template: "/common/_menulayout.html". Line: 1
+com.jfinal.template.stat.ParseException: Can not match the #end of directive #menulayout
+Template: "/common/_menulayout.html". Line: 1
+	at com.jfinal.template.stat.Parser.matchEnd(Parser.java:85)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:176)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.parse(Parser.java:91)
+	at com.jfinal.template.EngineConfig.doAddSharedFunction(EngineConfig.java:92)
+	at com.jfinal.template.EngineConfig.addSharedFunction(EngineConfig.java:87)
+	at com.jfinal.template.Engine.addSharedFunction(Engine.java:238)
+	at com.demo.common.DemoConfig.configEngine(DemoConfig.java:68)
+	at com.jfinal.core.Config.configJFinal(Config.java:53)
+	at com.jfinal.core.JFinal.init(JFinal.java:63)
+	at com.jfinal.core.JFinalFilter.init(JFinalFilter.java:49)
+	at org.eclipse.jetty.servlet.FilterHolder.doStart(FilterHolder.java:119)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:724)
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:265)
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1250)
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:706)
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:492)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at com.jfinal.server.JettyServer$1.onChange(JettyServer.java:119)
+	at com.jfinal.server.Scanner.compare(Scanner.java:88)
+	at com.jfinal.server.Scanner.working(Scanner.java:57)
+	at com.jfinal.server.Scanner.access$000(Scanner.java:31)
+	at com.jfinal.server.Scanner$1.run(Scanner.java:94)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+2018-01-26 16:06:19
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 16:28:40
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 16:37:44
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 16:37:45
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 16:39:57
+[INFO]-[Thread: qtp1728683889-22]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:41:34
+[INFO]-[Thread: qtp1728683889-20]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:41:37
+[INFO]-[Thread: qtp1728683889-17]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:42:26
+[INFO]-[Thread: qtp1728683889-19]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:46:24
+[INFO]-[Thread: qtp1728683889-19]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:46:36
+[INFO]-[Thread: qtp1728683889-21]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:46:54
+[INFO]-[Thread: qtp1728683889-21]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:46:54
+[ERROR]-[Thread: qtp1728683889-21]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.stat.ParseException: #if parameter exists illegal char: '！'
+Template: "/common/_menulayout.html". Line: 129
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.stat.ParseException: #if parameter exists illegal char: '！'
+Template: "/common/_menulayout.html". Line: 129
+	at com.jfinal.template.stat.Lexer.scanPara(Lexer.java:278)
+	at com.jfinal.template.stat.Lexer.scanDire(Lexer.java:160)
+	at com.jfinal.template.stat.Lexer.scan(Lexer.java:60)
+	at com.jfinal.template.stat.Parser.parse(Parser.java:89)
+	at com.jfinal.template.EngineConfig.reloadSharedFunctionSourceList(EngineConfig.java:188)
+	at com.jfinal.template.EngineConfig.getSharedFunction(EngineConfig.java:165)
+	at com.jfinal.template.Env.getFunction(Env.java:86)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:47)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-26 16:47:00
+[INFO]-[Thread: qtp1728683889-20]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:48:25
+[INFO]-[Thread: qtp1728683889-21]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:49:03
+[INFO]-[Thread: qtp1728683889-17]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:53:08
+[INFO]-[Thread: qtp1728683889-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:55:20
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 16:55:20
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 16:55:21
+[INFO]-[Thread: qtp1728683889-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:55:50
+[INFO]-[Thread: qtp1728683889-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 16:57:06
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 16:57:06
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 16:57:11
+[INFO]-[Thread: qtp1728683889-19]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:02:20
+[INFO]-[Thread: qtp1728683889-20]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:02:26
+[INFO]-[Thread: qtp1728683889-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:10:14
+[INFO]-[Thread: qtp1728683889-17]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:10:17
+[INFO]-[Thread: qtp1728683889-17]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:12:25
+[INFO]-[Thread: qtp1728683889-17]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:12:29
+[INFO]-[Thread: qtp1728683889-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:14:26
+[INFO]-[Thread: qtp1728683889-19]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:15:27
+[INFO]-[Thread: qtp1728683889-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:15:38
+[INFO]-[Thread: qtp1728683889-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-24 15:43:04.0, update_time:2018-01-24 15:43:04.0, projectname:青云诀, projectid:18, belongcompany:2}]
+
+2018-01-26 17:15:52
+[INFO]-[Thread: qtp1728683889-20]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:17:46
+[INFO]-[Thread: qtp1728683889-19]-[com.demo.admin.AdminController.childpackagelistindex()]: []
+
+2018-01-26 17:17:48
+[INFO]-[Thread: qtp1728683889-18]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-26 17:23:16
+[INFO]-[Thread: qtp1728683889-20]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-24 15:43:04.0, update_time:2018-01-24 15:43:04.0, projectname:青云诀, projectid:18, belongcompany:2}]
+
+2018-01-26 17:23:24
+[INFO]-[Thread: qtp1728683889-22]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-26 17:55:21
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 17:55:21
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 17:55:31
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 17:55:31
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-26 20:13:19
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-26 20:13:19
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited

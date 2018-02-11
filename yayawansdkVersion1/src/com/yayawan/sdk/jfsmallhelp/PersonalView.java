@@ -7,6 +7,7 @@ import org.json.JSONObject;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.net.Uri;
 import android.text.TextUtils;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -26,6 +27,7 @@ import com.lidroid.jxutils.http.client.HttpRequest.HttpMethod;
 import com.yayawan.sdk.base.AgentApp;
 import com.yayawan.sdk.domain.User;
 import com.yayawan.sdk.jflogin.Aboutus_dialog;
+import com.yayawan.sdk.jflogin.StringConstants;
 import com.yayawan.sdk.jflogin.ViewConstants;
 import com.yayawan.sdk.jfpay.Yayabipaydialog;
 import com.yayawan.sdk.jfutils.Sputils;
@@ -132,8 +134,29 @@ public class PersonalView extends BaseContentView {
 		}
 
 		// System.out.println("信息++++++"+mUser);
-		tv_mLogintime.setText(mUser.last_login);
+		tv_mLogintime.setText("4000042115");
+		tv_mLogintime.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				 try {
+					  mActivity.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(StringConstants.QQ_KEFUURL)));  
 
+				} catch (Exception e) {
+					// TODO: handle exception
+					mActivity.runOnUiThread(new Runnable() {
+						
+						@Override
+						public void run() {
+							// TODO Auto-generated method stub
+							Toast.makeText(mActivity, "检测到无qq应用，请手动添加qq客服为好友", 0).show();
+						}
+					});
+				}
+		      
+			}
+		});
 		bitmapUtils = new BitmapUtils(mContext);
 		bitmapUtils.clearDiskCache(mUser.icon + "?imageView/1/w/"
 				+ Utilsjf.machSize(80, mActivity) + "/h/" + ""
@@ -308,6 +331,7 @@ public class PersonalView extends BaseContentView {
 			}
 		});
 
+		// 关于我们
 		ll_mAboutus.setOnClickListener(new OnClickListener() {
 
 			@Override
@@ -415,8 +439,7 @@ public class PersonalView extends BaseContentView {
 		}
 		AgentApp.mUser.icon = tempmUser2.icon;
 		AgentApp.mUser.last_login = tempmUser2.last_login;
-		tv_mLogintime.setText(mUser.last_login);
-
+		
 		if (tempmUser2.phoneActive == 1) {
 			tv_bindphone.setText("已绑定");
 			ll_mBindphone.setClickable(false);

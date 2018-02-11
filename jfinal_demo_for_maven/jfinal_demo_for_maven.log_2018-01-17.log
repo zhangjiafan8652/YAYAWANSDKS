@@ -1,0 +1,800 @@
+
+2018-01-17 13:38:54
+[ERROR]-[Thread: qtp1881283994-22]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: Field not found: "projectlist.size" and getter method not found: "projectlist.getSize()"
+Template: "/admin/projectindex.html". Line: 86
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: Field not found: "projectlist.size" and getter method not found: "projectlist.getSize()"
+Template: "/admin/projectindex.html". Line: 86
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:116)
+	at com.jfinal.template.stat.ast.For.forIterator(For.java:66)
+	at com.jfinal.template.stat.ast.For.exec(For.java:53)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-17 13:40:13
+[ERROR]-[Thread: qtp1881283994-19]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: Index: 2, Size: 2
+Template: "/admin/projectindex.html". Line: 87
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: Index: 2, Size: 2
+Template: "/admin/projectindex.html". Line: 87
+	at com.jfinal.template.expr.ast.Method.eval(Method.java:86)
+	at com.jfinal.template.expr.ast.Field.eval(Field.java:59)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.For.forIterator(For.java:74)
+	at com.jfinal.template.stat.ast.For.exec(For.java:53)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+Caused by: java.lang.IndexOutOfBoundsException: Index: 2, Size: 2
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.template.expr.ast.MethodInfo.invoke(MethodInfo.java:48)
+	at com.jfinal.template.expr.ast.Method.eval(Method.java:82)
+	... 39 more
+
+2018-01-17 13:53:18
+[ERROR]-[Thread: qtp1881283994-20]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=1
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:87)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	... 29 more
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Syntax error, insert "( )" to complete ClassInstanceCreationExpression
+	Syntax error, insert ";" to complete Statement
+	pa cannot be resolved to a type
+
+	at com.demo.admin.AdminController.projectindex(AdminController.java:46)
+	... 34 more
+
+2018-01-17 13:55:13
+[ERROR]-[Thread: qtp1881283994-21]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: The index access operation target can not be null
+Template: "/admin/projectindex.html". Line: 6
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: The index access operation target can not be null
+Template: "/admin/projectindex.html". Line: 6
+	at com.jfinal.template.expr.ast.Index.eval(Index.java:51)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.For.forIterator(For.java:74)
+	at com.jfinal.template.stat.ast.For.exec(For.java:53)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-17 13:55:28
+[ERROR]-[Thread: qtp1881283994-21]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.TemplateException: The index access operation target can not be null
+Template: "/admin/projectindex.html". Line: 6
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.TemplateException: The index access operation target can not be null
+Template: "/admin/projectindex.html". Line: 6
+	at com.jfinal.template.expr.ast.Index.eval(Index.java:51)
+	at com.jfinal.template.stat.ast.Output.exec(Output.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.For.forIterator(For.java:74)
+	at com.jfinal.template.stat.ast.For.exec(For.java:53)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.stat.ast.Define.call(Define.java:105)
+	at com.jfinal.template.stat.ast.Call.exec(Call.java:49)
+	at com.jfinal.template.stat.ast.StatList.exec(StatList.java:68)
+	at com.jfinal.template.Template.render(Template.java:55)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-17 13:57:32
+[ERROR]-[Thread: qtp1881283994-21]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.stat.ParseException: Forbidden method: getClass
+Template: "/admin/projectindex.html". Line: 6
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.stat.ParseException: Forbidden method: getClass
+Template: "/admin/projectindex.html". Line: 6
+	at com.jfinal.template.expr.ast.Method.init(Method.java:50)
+	at com.jfinal.template.expr.ast.Method.<init>(Method.java:42)
+	at com.jfinal.template.expr.ExprParser.indexMethodField(ExprParser.java:433)
+	at com.jfinal.template.expr.ExprParser.sharedMethod(ExprParser.java:378)
+	at com.jfinal.template.expr.ExprParser.staticMember(ExprParser.java:336)
+	at com.jfinal.template.expr.ExprParser.incDec(ExprParser.java:309)
+	at com.jfinal.template.expr.ExprParser.unary(ExprParser.java:301)
+	at com.jfinal.template.expr.ExprParser.nullSafe(ExprParser.java:275)
+	at com.jfinal.template.expr.ExprParser.mulDivMod(ExprParser.java:263)
+	at com.jfinal.template.expr.ExprParser.addSub(ExprParser.java:251)
+	at com.jfinal.template.expr.ExprParser.greaterLess(ExprParser.java:238)
+	at com.jfinal.template.expr.ExprParser.equalNotEqual(ExprParser.java:225)
+	at com.jfinal.template.expr.ExprParser.and(ExprParser.java:213)
+	at com.jfinal.template.expr.ExprParser.or(ExprParser.java:201)
+	at com.jfinal.template.expr.ExprParser.ternary(ExprParser.java:187)
+	at com.jfinal.template.expr.ExprParser.assign(ExprParser.java:180)
+	at com.jfinal.template.expr.ExprParser.expr(ExprParser.java:149)
+	at com.jfinal.template.expr.ExprParser.exprList(ExprParser.java:132)
+	at com.jfinal.template.expr.ExprParser.parse(ExprParser.java:119)
+	at com.jfinal.template.expr.ExprParser.parseExprList(ExprParser.java:98)
+	at com.jfinal.template.stat.Parser.parseExprList(Parser.java:249)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:131)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:139)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:175)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.parse(Parser.java:91)
+	at com.jfinal.template.Engine.buildTemplateBySourceFactory(Engine.java:157)
+	at com.jfinal.template.Engine.getTemplate(Engine.java:142)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-17 13:57:36
+[ERROR]-[Thread: qtp1881283994-20]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.stat.ParseException: Forbidden method: getClass
+Template: "/admin/projectindex.html". Line: 6
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.stat.ParseException: Forbidden method: getClass
+Template: "/admin/projectindex.html". Line: 6
+	at com.jfinal.template.expr.ast.Method.init(Method.java:50)
+	at com.jfinal.template.expr.ast.Method.<init>(Method.java:42)
+	at com.jfinal.template.expr.ExprParser.indexMethodField(ExprParser.java:433)
+	at com.jfinal.template.expr.ExprParser.sharedMethod(ExprParser.java:378)
+	at com.jfinal.template.expr.ExprParser.staticMember(ExprParser.java:336)
+	at com.jfinal.template.expr.ExprParser.incDec(ExprParser.java:309)
+	at com.jfinal.template.expr.ExprParser.unary(ExprParser.java:301)
+	at com.jfinal.template.expr.ExprParser.nullSafe(ExprParser.java:275)
+	at com.jfinal.template.expr.ExprParser.mulDivMod(ExprParser.java:263)
+	at com.jfinal.template.expr.ExprParser.addSub(ExprParser.java:251)
+	at com.jfinal.template.expr.ExprParser.greaterLess(ExprParser.java:238)
+	at com.jfinal.template.expr.ExprParser.equalNotEqual(ExprParser.java:225)
+	at com.jfinal.template.expr.ExprParser.and(ExprParser.java:213)
+	at com.jfinal.template.expr.ExprParser.or(ExprParser.java:201)
+	at com.jfinal.template.expr.ExprParser.ternary(ExprParser.java:187)
+	at com.jfinal.template.expr.ExprParser.assign(ExprParser.java:180)
+	at com.jfinal.template.expr.ExprParser.expr(ExprParser.java:149)
+	at com.jfinal.template.expr.ExprParser.exprList(ExprParser.java:132)
+	at com.jfinal.template.expr.ExprParser.parse(ExprParser.java:119)
+	at com.jfinal.template.expr.ExprParser.parseExprList(ExprParser.java:98)
+	at com.jfinal.template.stat.Parser.parseExprList(Parser.java:249)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:131)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:139)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:175)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.parse(Parser.java:91)
+	at com.jfinal.template.Engine.buildTemplateBySourceFactory(Engine.java:157)
+	at com.jfinal.template.Engine.getTemplate(Engine.java:142)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-17 14:56:12
+[ERROR]-[Thread: qtp1881283994-22]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.stat.ParseException: Forbidden method: getClass
+Template: "/admin/projectindex.html". Line: 6
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.stat.ParseException: Forbidden method: getClass
+Template: "/admin/projectindex.html". Line: 6
+	at com.jfinal.template.expr.ast.Method.init(Method.java:50)
+	at com.jfinal.template.expr.ast.Method.<init>(Method.java:42)
+	at com.jfinal.template.expr.ExprParser.indexMethodField(ExprParser.java:433)
+	at com.jfinal.template.expr.ExprParser.sharedMethod(ExprParser.java:378)
+	at com.jfinal.template.expr.ExprParser.staticMember(ExprParser.java:336)
+	at com.jfinal.template.expr.ExprParser.incDec(ExprParser.java:309)
+	at com.jfinal.template.expr.ExprParser.unary(ExprParser.java:301)
+	at com.jfinal.template.expr.ExprParser.nullSafe(ExprParser.java:275)
+	at com.jfinal.template.expr.ExprParser.mulDivMod(ExprParser.java:263)
+	at com.jfinal.template.expr.ExprParser.addSub(ExprParser.java:251)
+	at com.jfinal.template.expr.ExprParser.greaterLess(ExprParser.java:238)
+	at com.jfinal.template.expr.ExprParser.equalNotEqual(ExprParser.java:225)
+	at com.jfinal.template.expr.ExprParser.and(ExprParser.java:213)
+	at com.jfinal.template.expr.ExprParser.or(ExprParser.java:201)
+	at com.jfinal.template.expr.ExprParser.ternary(ExprParser.java:187)
+	at com.jfinal.template.expr.ExprParser.assign(ExprParser.java:180)
+	at com.jfinal.template.expr.ExprParser.expr(ExprParser.java:149)
+	at com.jfinal.template.expr.ExprParser.exprList(ExprParser.java:132)
+	at com.jfinal.template.expr.ExprParser.parse(ExprParser.java:119)
+	at com.jfinal.template.expr.ExprParser.parseExprList(ExprParser.java:98)
+	at com.jfinal.template.stat.Parser.parseExprList(Parser.java:249)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:131)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:139)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:175)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.parse(Parser.java:91)
+	at com.jfinal.template.Engine.buildTemplateBySourceFactory(Engine.java:157)
+	at com.jfinal.template.Engine.getTemplate(Engine.java:138)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-17 14:56:38
+[ERROR]-[Thread: qtp1881283994-22]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=1
+com.jfinal.render.RenderException: com.jfinal.template.stat.ParseException: Expression error: can not match "k"
+Template: "/admin/projectindex.html". Line: 105
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:62)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:108)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.jfinal.template.stat.ParseException: Expression error: can not match "k"
+Template: "/admin/projectindex.html". Line: 105
+	at com.jfinal.template.expr.ExprParser.parse(ExprParser.java:121)
+	at com.jfinal.template.expr.ExprParser.parseExprList(ExprParser.java:98)
+	at com.jfinal.template.stat.Parser.parseExprList(Parser.java:249)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:131)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:139)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:139)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.stat(Parser.java:175)
+	at com.jfinal.template.stat.Parser.statList(Parser.java:101)
+	at com.jfinal.template.stat.Parser.parse(Parser.java:91)
+	at com.jfinal.template.Engine.buildTemplateBySourceFactory(Engine.java:157)
+	at com.jfinal.template.Engine.getTemplate(Engine.java:138)
+	at com.jfinal.render.TemplateRender.render(TemplateRender.java:60)
+	... 25 more
+
+2018-01-17 15:39:29
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-17 15:40:09
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-17 15:40:09
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-17 15:40:14
+[INFO]-[Thread: qtp1881283994-18]-[com.demo.admin.AdminController.projectindex()]: []
+
+2018-01-17 15:40:14
+[ERROR]-[Thread: qtp1881283994-18]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=2
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at com.demo.admin.AdminController.projectindex(AdminController.java:54)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+
+2018-01-17 15:41:39
+[INFO]-[Thread: qtp1881283994-21]-[com.demo.admin.AdminController.projectindex()]: []
+
+2018-01-17 15:41:39
+[ERROR]-[Thread: qtp1881283994-21]-[com.jfinal.core.ActionHandler.handle()]: /admin/projectindex?companyid=2
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at com.demo.admin.AdminController.projectindex(AdminController.java:54)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+
+2018-01-17 15:41:40
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-17 15:41:40
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-17 15:41:43
+[INFO]-[Thread: qtp1881283994-20]-[com.demo.admin.AdminController.projectindex()]: []
+
+2018-01-17 15:41:47
+[INFO]-[Thread: qtp1881283994-21]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53, projectname:妖界奇缘, projectid:5, belongcompany:1}]
+
+2018-01-17 15:41:50
+[INFO]-[Thread: qtp1881283994-22]-[com.demo.admin.AdminController.projectindex()]: []
+
+2018-01-17 15:42:10
+[INFO]-[Thread: qtp1881283994-17]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53, projectname:妖界奇缘, projectid:5, belongcompany:1}]
+
+2018-01-17 15:55:43
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-17 15:55:44
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-17 15:55:49
+[INFO]-[Thread: qtp1881283994-17]-[com.demo.admin.AdminController.projectindex()]: []
+
+2018-01-17 15:55:57
+[ERROR]-[Thread: qtp1881283994-20]-[com.jfinal.core.ActionHandler.handle()]: /admin/addproject?projectname=%E9%9D%92%E4%BA%91%E5%86%B3&companyid=2
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:87)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	... 29 more
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	dateString cannot be resolved to a variable
+
+	at com.demo.admin.AdminController.addproject(AdminController.java:69)
+	... 34 more
+
+2018-01-17 15:56:42
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-17 16:12:54
+[ERROR]-[Thread: qtp1881283994-22]-[com.jfinal.core.ActionHandler.handle()]: /admin/addproject?projectname=%E9%9D%92%E4%BA%91%E5%86%B3&companyid=2
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:87)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	... 29 more
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	dateString cannot be resolved to a variable
+
+	at com.demo.admin.AdminController.addproject(AdminController.java:69)
+	... 34 more
+
+2018-01-17 16:44:01
+[ERROR]-[Thread: qtp1881283994-20]-[com.jfinal.core.ActionHandler.handle()]: /admin/addproject?projectname=%E9%9D%92%E4%BA%91%E5%86%B3&companyid=2
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:87)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	... 29 more
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	dateString cannot be resolved to a variable
+
+	at com.demo.admin.AdminController.addproject(AdminController.java:69)
+	... 34 more
+
+2018-01-17 16:44:02
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-17 16:44:03
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-17 16:44:20
+[INFO]-[Thread: qtp1881283994-19]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}]
+
+2018-01-17 16:44:28
+[INFO]-[Thread: qtp1881283994-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:null, update_time:null, projectname:测试清云居, projectid:6, belongcompany:1}]
+
+2018-01-17 16:46:56
+[INFO]-[Thread: qtp1881283994-17]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}]
+
+2018-01-17 17:01:33
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-17 17:01:33
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-17 17:02:23
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-17 17:02:24
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-17 17:02:49
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-17 17:02:49
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-17 17:27:43
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-17 18:50:30
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-17 18:58:04
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited

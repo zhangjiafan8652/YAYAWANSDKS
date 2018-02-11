@@ -14,6 +14,6 @@ public class YYWApplication extends Application {
 		super.onCreate();
 		GameApitest.initOnapplication(this);
 		YYcontants.ISDEBUG = DeviceUtil.isDebug(getApplicationContext());
-		GameApitest.getGameApitestInstants().sendTest(getPackageName()+"Application.oncreate");
+		GameApitest.getGameApitestInstants(getApplicationContext()).sendTest(getPackageName()+"Application.oncreate");
 	}
 }

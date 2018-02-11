@@ -152,7 +152,7 @@ public class Personalview_xml_ho extends Basexml implements Layoutxml {
 
 		tv_mLogintime1 = new TextView(mContext);
 		machineFactory.MachineTextView(tv_mLogintime1, MATCH_PARENT,
-				WRAP_CONTENT, 0, "最后登录:", 26, mLinearLayout, 0, 10, 0, 0);
+				WRAP_CONTENT, 0, "客服QQ:", 26, mLinearLayout, 0, 10, 0, 0);
 
 		// TODO
 		ll_usernamelist1.addView(tv_mUsename1);

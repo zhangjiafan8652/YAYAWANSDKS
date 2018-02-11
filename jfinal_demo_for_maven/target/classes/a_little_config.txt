@@ -1,0 +1,10 @@
+jdbcUrl = jdbc:mysql://localhost/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =zhangjiafan
+devMode = true
+keystroepath =D:\\repackapkapp\\yayawan.keystore
+key_password =43597441
+key_bieming =wjy
+jdkBinPath =D:\\jdk7\\jdk\\bin
+basepath =D:\\
+DISPRE =D:

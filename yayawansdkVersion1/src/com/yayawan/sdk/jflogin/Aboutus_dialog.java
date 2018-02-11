@@ -112,7 +112,7 @@ public class Aboutus_dialog extends Basedialogview {
 		
 		TextView tv_line11 = new TextView(mActivity);
 		machineFactory.MachineTextView(tv_line11, MATCH_PARENT, WRAP_CONTENT, 0,
-				"客服qq：800821234(点击打开会话)", 24, mLinearLayout, 0, 0, 0, 0);
+				"客服qq：400004215(点击打开会话)", 24, mLinearLayout, 0, 0, 0, 0);
 		tv_line11.setGravity(Gravity_CENTER);
 		tv_line11.setTextColor(Color.BLUE);
 		tv_line11.setOnClickListener(new OnClickListener() {

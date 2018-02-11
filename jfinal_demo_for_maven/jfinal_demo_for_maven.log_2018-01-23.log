@@ -1,0 +1,2496 @@
+
+2018-01-23 09:51:19
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 09:52:34
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 09:52:34
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 10:42:13
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 10:42:14
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 10:52:29
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 10:52:30
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 10:54:05
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 10:54:06
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 11:01:33
+[INFO]-[Thread: qtp944681561-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 19:11:28.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 19:11:28.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:8, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 11:08:29
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 11:08:29
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 11:27:25
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 11:27:26
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 11:38:12
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 11:38:12
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 11:47:47
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 11:47:48
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 11:48:13
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 11:48:13
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 11:52:42
+[INFO]-[Thread: qtp944681561-22]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-19 16:36:57.0, update_time:2018-01-19 16:36:57.0, projectname:文磊, projectid:9, belongcompany:1}]
+
+2018-01-23 11:52:53
+[INFO]-[Thread: qtp944681561-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-19 16:36:57.0, update_time:2018-01-19 16:36:57.0, projectname:文磊, projectid:9, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-23 11:52:59
+[INFO]-[Thread: qtp944681561-21]-[com.demo.admin.AdminController.projectindex()]: []
+
+2018-01-23 11:53:07
+[INFO]-[Thread: qtp944681561-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-23 11:53:07.0, update_time:2018-01-23 11:53:07.0, projectname:王者争霸, projectid:11, belongcompany:2}]
+
+2018-01-23 11:55:06
+[WARN]-[Thread: qtp944681561-19]-[com.demo.admin.AdminController.addmotherpackage()]: 11111111111111+++++++qqqqqqqqqqq
+
+2018-01-23 11:55:07
+[INFO]-[Thread: qtp944681561-19]-[com.demo.admin.AdminController.addmotherpackage()]: 11111111111111+++++++{"mothergameplatformid":"yaya3757990336","mothergamename":"王者争霸","apkpath":"repackapkapp\\wzzb.apk","mothergamesocurceid":"wzzb01","mothergamepackagename":"com.wzzb.yyw","mothergamebelongprojectname":"王者争霸"}
+
+2018-01-23 12:01:30
+[INFO]-[Thread: qtp944681561-21]-[com.demo.admin.AdminController.childpackagelistindex()]: []
+
+2018-01-23 12:03:49
+[INFO]-[Thread: qtp944681561-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-23 12:03:49.0, ispacked:null, gamename:王者哈哈, gamesourceid:wzzb11, gamepackagename:com.wzhah.yyw, updatetime:2018-01-23 12:03:49.0, gamemotherfilename:王者争霸, gamebelongprojectid:11, packinglistid:6, gameplatformid:yaya123456, gamemotherfileid:7, gameoutputpath:repackapkapp\wzzb, gamefilename:王者哈哈123, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 12:04:00
+[INFO]-[Thread: qtp944681561-17]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-22 19:11:28.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-22 19:11:28.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:8, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 12:04:02
+[INFO]-[Thread: qtp944681561-18]-[com.demo.admin.AdminController.deletepackinglist()]: 删除打包item成功：true
+
+2018-01-23 12:04:02
+[INFO]-[Thread: qtp944681561-17]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-23 12:04:08
+[INFO]-[Thread: qtp944681561-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-23 12:04:11
+[INFO]-[Thread: qtp944681561-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-23 12:03:49.0, ispacked:null, gamename:王者哈哈, gamesourceid:wzzb11, gamepackagename:com.wzhah.yyw, updatetime:2018-01-23 12:03:49.0, gamemotherfilename:王者争霸, gamebelongprojectid:11, packinglistid:6, gameplatformid:yaya123456, gamemotherfileid:7, gameoutputpath:repackapkapp\wzzb, gamefilename:王者哈哈123, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 12:04:13
+[INFO]-[Thread: qtp944681561-18]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 11:55:07.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:7, mothergamebelongprojectname:王者争霸, belongcompany:2}
+
+2018-01-23 12:04:17
+[INFO]-[Thread: qtp944681561-18]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 11:55:07.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:7, mothergamebelongprojectname:王者争霸, belongcompany:2}
+
+2018-01-23 12:04:20
+[INFO]-[Thread: qtp944681561-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 12:04:13.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya123456, gamesocurceid:wzzb11, gamefilename:王者哈哈123, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 12:04:13.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者哈哈, gamepackagename:com.wzhah.yyw, gamemotherfilename:王者争霸, packinglistid:9, gamemotherfileid:7, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 12:04:17.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya123456, gamesocurceid:wzzb11, gamefilename:王者哈哈123, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 12:04:17.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者哈哈, gamepackagename:com.wzhah.yyw, gamemotherfilename:王者争霸, packinglistid:10, gamemotherfileid:7, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 12:04:23
+[INFO]-[Thread: qtp944681561-21]-[com.demo.admin.AdminController.deletepackinglist()]: 删除打包item成功：true
+
+2018-01-23 12:04:23
+[INFO]-[Thread: qtp944681561-19]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 12:04:17.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya123456, gamesocurceid:wzzb11, gamefilename:王者哈哈123, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 12:04:17.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者哈哈, gamepackagename:com.wzhah.yyw, gamemotherfilename:王者争霸, packinglistid:10, gamemotherfileid:7, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 12:17:55
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 12:17:56
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 12:20:07
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 12:20:07
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 12:23:19
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 12:23:19
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 12:27:06
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 12:27:06
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 12:28:06
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 12:28:07
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 12:28:15
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 12:28:45
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压失败。。。
+
+2018-01-23 12:28:45
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 13:48:30
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 13:48:30
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 13:48:33
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 13:49:10
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 13:53:53
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 13:55:05
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 13:55:13
+[INFO]-[Thread: Thread-11]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 13:55:45
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 13:55:45
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 13:55:49
+[INFO]-[Thread: Thread-11]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 13:55:55
+[INFO]-[Thread: Thread-13]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 13:56:05
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 13:56:05
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 13:56:05
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 13:56:05
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 13:56:06
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 13:56:06
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 13:56:07
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 13:56:07
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 13:56:18
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 13:56:24
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 13:56:24
+[INFO]-[Thread: Thread-15]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 13:56:25
+[INFO]-[Thread: Thread-13]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 14:07:05
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:07:05
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:07:11
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 14:07:18
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 14:07:18
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 14:07:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 14:07:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 14:07:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 14:07:20
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 14:07:21
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 14:07:21
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 14:07:31
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 14:07:44
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 14:07:44
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 14:07:44
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 14:12:33
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:12:34
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:13:24
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:13:24
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:15:35
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:15:36
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:15:45
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:15:46
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:16:26
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:16:26
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:19:27
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:19:28
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:19:33
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:19:34
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:19:53
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:19:53
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:22:14
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:22:15
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:25:36
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:25:37
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:28:03
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:28:03
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:29:54
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:29:54
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:30:14
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:30:15
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:38:59
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:39:00
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:46:47
+[ERROR]-[Thread: main]-[com.jfinal.kit.LogKit.error()]: port: 8888 already in use!
+java.lang.IllegalStateException: port: 8888 already in use!
+	at com.jfinal.server.JettyServer.doStart(JettyServer.java:87)
+	at com.jfinal.server.JettyServer.start(JettyServer.java:70)
+	at com.jfinal.core.JFinal.start(JFinal.java:162)
+	at com.demo.common.DemoConfig.main(DemoConfig.java:39)
+
+2018-01-23 14:48:07
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:49:32
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:49:33
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:50:12
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:50:13
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 14:58:53
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 14:58:53
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:02:15
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:02:15
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:03:10
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:03:11
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:03:28
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 12:04:17.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya123456, gamesocurceid:wzzb11, gamefilename:王者哈哈123, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 12:04:17.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者哈哈, gamepackagename:com.wzhah.yyw, gamemotherfilename:王者争霸, packinglistid:10, gamemotherfileid:7, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 15:03:28
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 15:03:36
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 15:03:37
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 15:03:37
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 15:03:37
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 15:03:38
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 15:03:38
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 15:03:39
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 15:03:39
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 15:03:49
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 15:04:04
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 15:04:04
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 15:04:04
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 15:04:04
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhah.yyw
+
+2018-01-23 15:05:22
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:05:22
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:05:27
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 12:04:17.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya123456, gamesocurceid:wzzb11, gamefilename:王者哈哈123, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 12:04:17.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者哈哈, gamepackagename:com.wzhah.yyw, gamemotherfilename:王者争霸, packinglistid:10, gamemotherfileid:7, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 15:05:27
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 15:05:35
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 15:05:35
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 15:05:35
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 15:05:35
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 15:05:36
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 15:05:36
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 15:05:37
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 15:05:37
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 15:05:51
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhah.yyw
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_source_id  wzzb11
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  yaya123456
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者哈哈
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 15:06:03
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 15:06:12
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 15:06:13
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 15:06:13
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 15:06:13
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 15:06:18
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 15:06:22
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb王者哈哈123.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 15:08:28
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:08:29
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:11:50
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:11:51
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:12:16
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:12:16
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:25:13
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:25:14
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:28:00
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:28:00
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:31:59
+[INFO]-[Thread: qtp916393456-22]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-23 15:32:07
+[INFO]-[Thread: qtp916393456-17]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 12:04:17.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya123456, gamesocurceid:wzzb11, gamefilename:王者哈哈123, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 12:04:17.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者哈哈, gamepackagename:com.wzhah.yyw, gamemotherfilename:王者争霸, packinglistid:10, gamemotherfileid:7, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 15:35:45
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:35:45
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:36:09
+[INFO]-[Thread: qtp916393456-19]-[com.demo.admin.AdminController.deletepackinglist()]: 删除打包item成功：true
+
+2018-01-23 15:36:09
+[INFO]-[Thread: qtp916393456-18]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-23 15:36:12
+[INFO]-[Thread: qtp916393456-18]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-19 16:36:57.0, update_time:2018-01-19 16:36:57.0, projectname:文磊, projectid:9, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-23 15:38:19
+[WARN]-[Thread: qtp916393456-20]-[com.demo.admin.AdminController.addmotherpackage()]: 11111111111111+++++++qqqqqqqqqqq
+
+2018-01-23 15:38:19
+[INFO]-[Thread: qtp916393456-20]-[com.demo.admin.AdminController.addmotherpackage()]: 11111111111111+++++++{"mothergameplatformid":"yaya3757990336","mothergamename":"王者争霸","apkpath":"repackapkapp\\wzzb.apk","mothergamesocurceid":"wzzb01","mothergamepackagename":"com.wzzb.yyw","mothergamebelongprojectname":"王者争霸"}
+
+2018-01-23 15:38:26
+[INFO]-[Thread: qtp916393456-20]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 15:40:48
+[INFO]-[Thread: qtp916393456-20]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 15:40:58
+[INFO]-[Thread: qtp916393456-22]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 15:41:14
+[INFO]-[Thread: qtp916393456-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 15:40:58.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq01, gamefilename:wzqq, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 15:40:58.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其, gamepackagename:com.wzhqq.yyw, gamemotherfilename:王者争霸, packinglistid:11, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 15:41:19
+[INFO]-[Thread: qtp916393456-20]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 15:41:41
+[INFO]-[Thread: qtp916393456-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 15:42:38
+[INFO]-[Thread: qtp916393456-17]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 15:42:47
+[INFO]-[Thread: qtp916393456-20]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 15:50:08
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:50:09
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:51:19
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:51:19
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:52:15
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:52:15
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:53:00
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:53:22
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:54:57
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 15:54:58
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 15:55:03
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 15:40:58.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq01, gamefilename:wzqq, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 15:40:58.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其, gamepackagename:com.wzhqq.yyw, gamemotherfilename:王者争霸, packinglistid:11, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 15:55:03
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 15:55:12
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 15:55:12
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 15:55:12
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 15:55:12
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 15:55:13
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 15:55:13
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 15:55:13
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 15:55:14
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 15:55:23
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-14]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqq.yyw
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_source_id  wzqq01
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  yaya1234
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 15:55:39
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 15:55:40
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 15:55:49
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 15:55:50
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 15:55:50
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 15:55:50
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 15:55:55
+[INFO]-[Thread: Thread-16]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 15:55:58
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 15:56:04
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 15:56:14
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 15:42:47.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq02, gamefilename:wzqq2, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 15:42:47.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其2, gamepackagename:com.wzhqqkk.yyw, gamemotherfilename:王者争霸, packinglistid:12, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 15:56:14
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 15:56:22
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 15:56:22
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 15:56:22
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 15:56:22
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 15:56:22
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 15:56:23
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 15:56:23
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 15:56:23
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 15:56:34
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 15:56:43
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 15:56:43
+[INFO]-[Thread: Thread-18]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 15:56:43
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 15:56:43
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqqkk.yyw
+
+2018-01-23 15:56:43
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_source_id  wzqq02
+
+2018-01-23 15:56:43
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  yaya1234
+
+2018-01-23 15:56:43
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其2
+
+2018-01-23 15:56:43
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 15:56:43
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 15:56:43
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 15:56:44
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 15:56:44
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 15:56:53
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 15:56:55
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 15:56:55
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 15:56:55
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 15:57:01
+[INFO]-[Thread: Thread-20]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 15:57:04
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq2.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 15:57:05
+[INFO]-[Thread: qtp916393456-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 15:42:47.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq02, gamefilename:wzqq2, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 15:42:47.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其2, gamepackagename:com.wzhqqkk.yyw, gamemotherfilename:王者争霸, packinglistid:12, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 15:57:11
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 15:57:39
+[INFO]-[Thread: qtp916393456-19]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-23 16:14:14
+[INFO]-[Thread: qtp916393456-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:14:21
+[INFO]-[Thread: qtp916393456-17]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 16:14:21
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 16:14:21.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq01, gamefilename:wzqq, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 16:14:21.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其, gamepackagename:com.wzhqq.yyw, gamemotherfilename:王者争霸, packinglistid:13, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 16:14:21
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 16:14:22
+[INFO]-[Thread: qtp916393456-20]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 16:14:25
+[INFO]-[Thread: qtp916393456-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 16:14:21.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq01, gamefilename:wzqq, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 16:14:21.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其, gamepackagename:com.wzhqq.yyw, gamemotherfilename:王者争霸, packinglistid:13, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 16:14:22.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq02, gamefilename:wzqq2, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 16:14:22.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其2, gamepackagename:com.wzhqqkk.yyw, gamemotherfilename:王者争霸, packinglistid:14, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:14:29
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 16:14:29
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 16:14:29
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 16:14:29
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 16:14:30
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 16:14:30
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 16:14:31
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 16:14:31
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 16:14:42
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-22]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqq.yyw
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_source_id  wzqq01
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  yaya1234
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 16:14:56
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 16:15:08
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 16:15:09
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 16:15:09
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 16:15:09
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 16:15:14
+[INFO]-[Thread: Thread-24]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 16:15:17
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 16:15:23
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 16:15:26
+[INFO]-[Thread: qtp916393456-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 16:14:22.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq02, gamefilename:wzqq2, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 16:14:22.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其2, gamepackagename:com.wzhqqkk.yyw, gamemotherfilename:王者争霸, packinglistid:14, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:15:33
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 16:14:22.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq02, gamefilename:wzqq2, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 16:14:22.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其2, gamepackagename:com.wzhqqkk.yyw, gamemotherfilename:王者争霸, packinglistid:14, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 16:15:33
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 16:15:41
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 16:15:41
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 16:15:41
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 16:15:41
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 16:15:42
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 16:15:42
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 16:15:44
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 16:15:44
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 16:15:56
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-26]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqqkk.yyw
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_source_id  wzqq02
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  yaya1234
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其2
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 16:16:14
+[INFO]-[Thread: Thread-28]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 16:16:15
+[INFO]-[Thread: Thread-28]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 16:16:23
+[INFO]-[Thread: Thread-28]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 16:16:25
+[INFO]-[Thread: Thread-28]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 16:16:25
+[INFO]-[Thread: Thread-28]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 16:16:25
+[INFO]-[Thread: Thread-28]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 16:16:31
+[INFO]-[Thread: Thread-28]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 16:16:35
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq2.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 16:16:44
+[INFO]-[Thread: Thread-12]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 16:18:41
+[INFO]-[Thread: qtp916393456-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:21:15
+[INFO]-[Thread: qtp916393456-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:21:19
+[INFO]-[Thread: qtp916393456-19]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:23:39
+[INFO]-[Thread: qtp916393456-21]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:25:20
+[INFO]-[Thread: qtp916393456-19]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:25:46
+[INFO]-[Thread: qtp916393456-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:26:25
+[INFO]-[Thread: qtp916393456-17]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:26:28
+[INFO]-[Thread: qtp916393456-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:27:07
+[INFO]-[Thread: qtp916393456-19]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:33:10
+[INFO]-[Thread: qtp916393456-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:34:43
+[INFO]-[Thread: qtp916393456-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:35:39
+[INFO]-[Thread: qtp916393456-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:36:53
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 16:36:53
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 16:42:32
+[INFO]-[Thread: qtp916393456-22]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 16:47:01
+[INFO]-[Thread: qtp916393456-21]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-19 16:36:57.0, update_time:2018-01-19 16:36:57.0, projectname:文磊, projectid:9, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-23 16:49:27
+[INFO]-[Thread: qtp916393456-17]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-19 16:36:57.0, update_time:2018-01-19 16:36:57.0, projectname:文磊, projectid:9, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-23 16:49:42
+[INFO]-[Thread: qtp916393456-17]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 17:00:10
+[INFO]-[Thread: qtp916393456-19]-[com.demo.admin.AdminController.projectindex()]: [{createtime:2018-01-16 17:56:52.0, update_time:2018-01-24 15:54:05.0, projectname:青云决, projectid:2, belongcompany:1}, {createtime:2018-01-16 18:27:44.0, update_time:2018-01-17 15:54:12.0, projectname:青云志, projectid:4, belongcompany:1}, {createtime:2018-01-17 15:24:53.0, update_time:2018-01-17 15:54:15.0, projectname:妖界奇缘, projectid:5, belongcompany:1}, {createtime:2018-01-17 16:46:56.0, update_time:2018-01-17 16:46:56.0, projectname:清云居, projectid:7, belongcompany:1}, {createtime:2018-01-19 16:36:57.0, update_time:2018-01-19 16:36:57.0, projectname:文磊, projectid:9, belongcompany:1}, {createtime:2018-01-23 11:52:53.0, update_time:2018-01-23 11:52:53.0, projectname:王者争霸, projectid:10, belongcompany:1}]
+
+2018-01-23 17:07:47
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:07:47
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:07:57
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:07:58
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:12:34
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:12:35
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:13:05
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:13:05
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:17:17
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:17:18
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:19:18
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:19:19
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:19:49
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:19:49
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:28:39
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:28:39
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:30:00
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:30:00
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:32:46
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:32:47
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:49:31
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:49:32
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:49:42
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:49:42
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:51:18
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:51:23
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:51:28
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 17:58:42
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 17:59:05
+[WARN]-[Thread: qtp2072144310-21]-[com.jfinal.core.ActionHandler.handle()]: 404 Action Not Found: /Admin/ceshi?key=123&v=456
+
+2018-01-23 18:00:15
+[WARN]-[Thread: qtp2072144310-20]-[com.jfinal.core.ActionHandler.handle()]: 404 Action Not Found: /Admin/ceshi?key=123&v=456
+
+2018-01-23 18:12:59
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:13:00
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:14:45
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:14:46
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:14:56
+[WARN]-[Thread: qtp2072144310-22]-[com.jfinal.core.ActionHandler.handle()]: 404 Action Not Found: /Admin/ceshi1
+
+2018-01-23 18:15:51
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:15:52
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:16:52
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:16:52
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:17:47
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:17:48
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:22:20
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:22:20
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:22:40
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:22:41
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:23:05
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:23:06
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:23:36
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:23:36
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:24:51
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:24:52
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:28:54
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:28:54
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:28:59
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:28:59
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:29:24
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:29:25
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:32:26
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:32:27
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:38:50
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:38:50
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:39:47
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:39:52
+[ERROR]-[Thread: qtp2130636234-17]-[com.jfinal.core.ActionHandler.handle()]: /admin/ceshi1
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:87)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	... 29 more
+Caused by: java.lang.NoClassDefFoundError: okio/Buffer
+	at okhttp3.HttpUrl.canonicalize(HttpUrl.java:1562)
+	at okhttp3.HttpUrl$Builder.parse(HttpUrl.java:1144)
+	at okhttp3.HttpUrl.parse(HttpUrl.java:643)
+	at okhttp3.Request$Builder.url(Request.java:140)
+	at com.jiafan.utils.OkHttpUtil._getSync(OkHttpUtil.java:59)
+	at com.jiafan.utils.OkHttpUtil.getSync(OkHttpUtil.java:254)
+	at com.demo.admin.AdminController.ceshi1(AdminController.java:407)
+	... 34 more
+Caused by: java.lang.ClassNotFoundException: okio.Buffer
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.jetty.webapp.WebAppClassLoader.loadClass(WebAppClassLoader.java:430)
+	at com.jfinal.server.JFinalClassLoader.loadClass(JFinalClassLoader.java:53)
+	... 41 more
+
+2018-01-23 18:45:10
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:45:10
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:56:57
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:57:02
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:57:17
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:57:18
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:57:37
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:57:38
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:57:47
+[ERROR]-[Thread: qtp2130636234-20]-[com.jfinal.core.ActionHandler.handle()]: /admin/ceshi1
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:87)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	... 29 more
+Caused by: java.lang.NoClassDefFoundError: okio/Buffer
+	at okhttp3.HttpUrl.canonicalize(HttpUrl.java:1562)
+	at okhttp3.HttpUrl$Builder.parse(HttpUrl.java:1144)
+	at okhttp3.HttpUrl.parse(HttpUrl.java:643)
+	at okhttp3.Request$Builder.url(Request.java:140)
+	at com.jiafan.utils.OkHttpUtil._getSync(OkHttpUtil.java:59)
+	at com.jiafan.utils.OkHttpUtil.getSync(OkHttpUtil.java:254)
+	at com.demo.admin.AdminController.ceshi1(AdminController.java:407)
+	... 34 more
+Caused by: java.lang.ClassNotFoundException: okio.Buffer
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.jetty.webapp.WebAppClassLoader.loadClass(WebAppClassLoader.java:430)
+	at com.jfinal.server.JFinalClassLoader.loadClass(JFinalClassLoader.java:53)
+	... 41 more
+
+2018-01-23 18:58:38
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 18:59:33
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 18:59:34
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:00:29
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:00:29
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:03:51
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:03:51
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:04:36
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:04:37
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:06:27
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:06:28
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:07:18
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:07:18
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:09:48
+[INFO]-[Thread: qtp683862160-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 19:09:53
+[INFO]-[Thread: qtp683862160-19]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-22 16:24:38.0, mothergameplatformid:yaya2717214540, apkpath:repackapkapp\仙之剑.apk, mothergamename:仙之剑, mothergamesocurceid:xzjm01, mothergamepackagename:com.keyue.zxyayawanunique, motherpackageid:6, mothergamebelongprojectname:青云决, belongcompany:1}
+
+2018-01-23 19:09:54
+[INFO]-[Thread: qtp683862160-17]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 19:09:55
+[INFO]-[Thread: qtp683862160-20]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 19:09:58
+[INFO]-[Thread: qtp683862160-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 19:09:53.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-23 19:09:53.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:15, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 19:09:54.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq01, gamefilename:wzqq, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 19:09:54.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其, gamepackagename:com.wzhqq.yyw, gamemotherfilename:王者争霸, packinglistid:16, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 19:09:55.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq02, gamefilename:wzqq2, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 19:09:55.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其2, gamepackagename:com.wzhqqkk.yyw, gamemotherfilename:王者争霸, packinglistid:17, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 19:10:03
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 19:09:53.0, gamemothername:仙之剑, gamemotherpackagename:com.keyue.zxyayawanunique, gameplatformid:yaya123456, gamesocurceid:yaya123456, gamefilename:wzxy, gameoutputpath:repackapkapp, createtime:2018-01-23 19:09:53.0, ispacked:0, mothergameplatformid:yaya2717214540, gamename:王者仙缘, gamepackagename:com.wzxy.yyw, gamemotherfilename:仙之剑, packinglistid:15, gamemotherfileid:6, gamemotherfilepath:repackapkapp\仙之剑.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 19:10:03
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\仙之剑.apk -o D:\repackapkapp\app
+
+2018-01-23 19:10:12
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on ��֮��.apk
+
+2018-01-23 19:10:12
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 19:10:12
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 19:10:12
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 19:10:13
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 19:10:13
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 19:10:15
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 19:10:15
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 19:10:18
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 19:10:28
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 19:10:28
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 19:10:28
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 19:10:28
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.keyue.zxyayawanunique  com.wzxy.yyw
+
+2018-01-23 19:10:28
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_source_id  yaya123456
+
+2018-01-23 19:10:28
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  yaya123456
+
+2018-01-23 19:10:28
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：仙之剑  王者仙缘
+
+2018-01-23 19:10:28
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 19:10:28
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 19:10:29
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 19:10:29
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 19:10:29
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 19:10:34
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 19:10:37
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 19:10:37
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 19:10:41
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzxy.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 19:10:44
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 19:10:54
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 19:09:54.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq01, gamefilename:wzqq, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 19:09:54.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其, gamepackagename:com.wzhqq.yyw, gamemotherfilename:王者争霸, packinglistid:16, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 19:10:54
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 19:10:57
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 19:10:57
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 19:10:57
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 19:10:57
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 19:10:58
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 19:10:58
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 19:10:59
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 19:10:59
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 19:11:13
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 19:11:25
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 19:11:25
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 19:11:26
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 19:11:26
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqq.yyw
+
+2018-01-23 19:11:26
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_source_id  wzqq01
+
+2018-01-23 19:11:26
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  yaya1234
+
+2018-01-23 19:11:26
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其
+
+2018-01-23 19:11:26
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 19:11:26
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 19:11:26
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 19:11:26
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 19:11:26
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 19:11:35
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 19:11:37
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 19:11:37
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 19:11:37
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 19:11:42
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 19:11:45
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 19:11:51
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 19:12:01
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 19:09:55.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:yaya1234, gamesocurceid:wzqq02, gamefilename:wzqq2, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 19:09:55.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其2, gamepackagename:com.wzhqqkk.yyw, gamemotherfilename:王者争霸, packinglistid:17, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 19:12:01
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 19:12:08
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 19:12:08
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 19:12:08
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 19:12:08
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 19:12:09
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 19:12:09
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 19:12:10
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 19:12:10
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 19:12:21
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 19:12:39
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 19:12:39
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 19:12:39
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 19:12:39
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqqkk.yyw
+
+2018-01-23 19:12:39
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_source_id  wzqq02
+
+2018-01-23 19:12:39
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  yaya1234
+
+2018-01-23 19:12:39
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其2
+
+2018-01-23 19:12:39
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 19:12:39
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 19:12:40
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 19:12:40
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 19:12:40
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 19:12:49
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 19:12:50
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 19:12:50
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 19:12:50
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 19:12:55
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 19:12:58
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq2.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 19:13:04
+[INFO]-[Thread: Thread-17]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 19:31:43
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:31:43
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:32:28
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:32:29
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:32:38
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:32:39
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:49:48
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:49:49
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:50:09
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:50:09
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 19:50:24
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 19:50:24
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 20:23:49
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 20:23:49
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 20:25:25
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 20:25:25
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 20:38:06
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 20:38:08
+[INFO]-[Thread: qtp1978279235-21]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 20:38:33
+[ERROR]-[Thread: qtp1978279235-18]-[com.jfinal.core.ActionHandler.handle()]: /admin/addchildpackagebyxlsx?xlsxfilepath=repackapkapp%5Csetting%5C%E6%96%B0%E7%89%88%E5%88%86%E5%8C%85%E6%A8%A1%E6%9D%BF%E6%96%87%E4%BB%B6.xlsx&companyid=1
+com.jfinal.plugin.activerecord.ActiveRecordException: java.sql.SQLException: Field 'gamebelongprojectid' doesn't have a default value
+	at com.jfinal.plugin.activerecord.Model.save(Model.java:457)
+	at com.demo.admin.AdminController.getGameInfoToBen(AdminController.java:396)
+	at com.demo.admin.AdminController.addchildpackagebyxlsx(AdminController.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.sql.SQLException: Field 'gamebelongprojectid' doesn't have a default value
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:964)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2487)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2079)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2013)
+	at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5104)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1998)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.executeUpdate(DruidPooledPreparedStatement.java:253)
+	at com.jfinal.plugin.activerecord.Model.save(Model.java:452)
+	... 36 more
+
+2018-01-23 20:41:32
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 20:41:32
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 20:41:47
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 20:41:48
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 20:41:53
+[ERROR]-[Thread: qtp1978279235-19]-[com.jfinal.core.ActionHandler.handle()]: /admin/addchildpackagebyxlsx?xlsxfilepath=repackapkapp%5Csetting%5C%E6%96%B0%E7%89%88%E5%88%86%E5%8C%85%E6%A8%A1%E6%9D%BF%E6%96%87%E4%BB%B6.xlsx&companyid=1
+com.jfinal.plugin.activerecord.ActiveRecordException: java.sql.SQLException: Field 'gamebelongprojectid' doesn't have a default value
+	at com.jfinal.plugin.activerecord.Model.save(Model.java:457)
+	at com.demo.admin.AdminController.getGameInfoToBen(AdminController.java:399)
+	at com.demo.admin.AdminController.addchildpackagebyxlsx(AdminController.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.sql.SQLException: Field 'gamebelongprojectid' doesn't have a default value
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:964)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2487)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2079)
+	at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2013)
+	at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5104)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1998)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.executeUpdate(DruidPooledPreparedStatement.java:253)
+	at com.jfinal.plugin.activerecord.Model.save(Model.java:452)
+	... 36 more
+
+2018-01-23 20:42:43
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 20:42:43
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 20:42:48
+[ERROR]-[Thread: qtp1978279235-22]-[com.jfinal.core.ActionHandler.handle()]: /admin/addchildpackagebyxlsx?xlsxfilepath=repackapkapp%5Csetting%5C%E6%96%B0%E7%89%88%E5%88%86%E5%8C%85%E6%A8%A1%E6%9D%BF%E6%96%87%E4%BB%B6.xlsx&companyid=1
+java.lang.NumberFormatException: For input string: "10.00"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.demo.admin.AdminController.getGameInfoToBen(AdminController.java:371)
+	at com.demo.admin.AdminController.addchildpackagebyxlsx(AdminController.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:73)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.demo.admin.AdminInterceptor.intercept(AdminInterceptor.java:17)
+	at com.jfinal.aop.Invocation.invoke(Invocation.java:67)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:83)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:73)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1307)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:453)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:137)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:560)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1072)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:382)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1006)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:365)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:485)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:926)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:988)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:635)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+
+2018-01-23 20:54:35
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 20:54:35
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 20:59:38
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 20:59:38
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 20:59:51
+[INFO]-[Thread: qtp1978279235-18]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-22 16:06:50.0, ispacked:null, gamename:1111111111, gamesourceid:11111111111, gamepackagename:1111111111, updatetime:2018-01-22 16:06:50.0, gamemotherfilename:青云决, gamebelongprojectid:4, packinglistid:4, gameplatformid:111, gamemotherfileid:4, gameoutputpath:11111111, gamefilename:1111111111111, belongcompany:1, gameiconpath:111111111}, {createtime:2018-01-22 16:29:17.0, ispacked:null, gamename:王者仙缘, gamesourceid:yaya123456, gamepackagename:com.wzxy.yyw, updatetime:2018-01-22 16:29:17.0, gamemotherfilename:仙之剑, gamebelongprojectid:2, packinglistid:5, gameplatformid:yaya123456, gamemotherfileid:6, gameoutputpath:repackapkapp, gamefilename:wzxy, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:40:48.0, ispacked:null, gamename:王者千其, gamesourceid:wzqq01, gamepackagename:com.wzhqq.yyw, updatetime:2018-01-23 15:40:48.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:7, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 15:42:38.0, ispacked:null, gamename:王者千其2, gamesourceid:wzqq02, gamepackagename:com.wzhqqkk.yyw, updatetime:2018-01-23 15:42:38.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:8, gameplatformid:yaya1234, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq2, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 20:59:51.0, ispacked:null, gamename:王者千其3, gamesourceid:wzqq3, gamepackagename:com.wzhqqxx.yyw, updatetime:2018-01-23 20:59:51.0, gamemotherfilename:null, gamebelongprojectid:10, packinglistid:9, gameplatformid:null, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq3, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 20:59:51.0, ispacked:null, gamename:王者千其4, gamesourceid:wzqq4, gamepackagename:com.wzhqqxxxx.yyw, updatetime:2018-01-23 20:59:51.0, gamemotherfilename:null, gamebelongprojectid:10, packinglistid:10, gameplatformid:null, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq4, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 20:59:51.0, ispacked:null, gamename:王者千其5, gamesourceid:, gamepackagename:com.wzhqqxxxxx.yyw, updatetime:2018-01-23 20:59:51.0, gamemotherfilename:null, gamebelongprojectid:10, packinglistid:11, gameplatformid:null, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq5, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:04:11
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 21:04:11
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 21:08:53
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 21:08:54
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 21:14:01
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2018-01-23 21:14:02
+[INFO]-[Thread: JFinal-Scanner]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2018-01-23 21:15:37
+[INFO]-[Thread: qtp1978279235-20]-[com.demo.admin.AdminController.childpackagelistindex()]: []
+
+2018-01-23 21:15:46
+[INFO]-[Thread: qtp1978279235-20]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-23 21:15:46.0, ispacked:null, gamename:王者千其3, gamesourceid:wzqq3, gamepackagename:com.wzhqqxx.yyw, updatetime:2018-01-23 21:15:46.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:12, gameplatformid:kk12345, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq3, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 21:15:46.0, ispacked:null, gamename:王者千其4, gamesourceid:wzqq4, gamepackagename:com.wzhqqxxxx.yyw, updatetime:2018-01-23 21:15:46.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:13, gameplatformid:kk123456, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq4, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 21:15:46.0, ispacked:null, gamename:王者千其5, gamesourceid:, gamepackagename:com.wzhqqxxxxx.yyw, updatetime:2018-01-23 21:15:46.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:14, gameplatformid:kk1234576, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq5, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:16:05
+[INFO]-[Thread: qtp1978279235-21]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 21:16:06
+[INFO]-[Thread: qtp1978279235-17]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 21:16:07
+[INFO]-[Thread: qtp1978279235-21]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 21:16:11
+[INFO]-[Thread: qtp1978279235-18]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 21:16:05.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk12345, gamesocurceid:wzqq3, gamefilename:wzqq3, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:05.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其3, gamepackagename:com.wzhqqxx.yyw, gamemotherfilename:王者争霸, packinglistid:18, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 21:16:06.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk123456, gamesocurceid:wzqq4, gamefilename:wzqq4, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:06.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其4, gamepackagename:com.wzhqqxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:19, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 21:16:07.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1234576, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:07.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:20, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:16:31
+[INFO]-[Thread: qtp1978279235-18]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 21:16:05.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk12345, gamesocurceid:wzqq3, gamefilename:wzqq3, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:05.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其3, gamepackagename:com.wzhqqxx.yyw, gamemotherfilename:王者争霸, packinglistid:18, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 21:16:06.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk123456, gamesocurceid:wzqq4, gamefilename:wzqq4, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:06.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其4, gamepackagename:com.wzhqqxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:19, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 21:16:07.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1234576, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:07.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:20, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:16:41
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 21:16:05.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk12345, gamesocurceid:wzqq3, gamefilename:wzqq3, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:05.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其3, gamepackagename:com.wzhqqxx.yyw, gamemotherfilename:王者争霸, packinglistid:18, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 21:16:41
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 21:16:49
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 21:16:49
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 21:16:49
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 21:16:49
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 21:16:50
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 21:16:50
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 21:16:51
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 21:16:51
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 21:17:02
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 21:17:19
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 21:17:19
+[INFO]-[Thread: Thread-21]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 21:17:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 21:17:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqqxx.yyw
+
+2018-01-23 21:17:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_source_id  wzqq3
+
+2018-01-23 21:17:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  kk12345
+
+2018-01-23 21:17:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其3
+
+2018-01-23 21:17:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 21:17:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 21:17:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 21:17:20
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 21:17:20
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 21:17:34
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 21:17:36
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 21:17:36
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 21:17:36
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 21:17:43
+[INFO]-[Thread: Thread-23]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 21:17:46
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq3.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 21:17:52
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 21:18:02
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 21:16:06.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk123456, gamesocurceid:wzqq4, gamefilename:wzqq4, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:06.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其4, gamepackagename:com.wzhqqxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:19, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 21:18:02
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 21:18:11
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 21:18:11
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 21:18:11
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 21:18:11
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 21:18:12
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 21:18:12
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 21:18:13
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 21:18:13
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 21:18:23
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 21:18:38
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 21:18:38
+[INFO]-[Thread: Thread-25]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 21:18:38
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 21:18:38
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqqxxxx.yyw
+
+2018-01-23 21:18:38
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_source_id  wzqq4
+
+2018-01-23 21:18:38
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  kk123456
+
+2018-01-23 21:18:38
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其4
+
+2018-01-23 21:18:38
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 21:18:38
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 21:18:38
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 21:18:39
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 21:18:39
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 21:18:51
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 21:18:52
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 21:18:52
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 21:18:52
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 21:18:57
+[INFO]-[Thread: Thread-27]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 21:19:00
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq4.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 21:19:07
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 21:19:15
+[INFO]-[Thread: qtp1978279235-18]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 21:16:07.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1234576, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:07.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:20, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:19:17
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 21:16:07.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1234576, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:07.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:20, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 21:19:17
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 21:19:25
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 21:19:25
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 21:19:25
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 21:19:25
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 21:19:26
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 21:19:26
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 21:19:27
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 21:19:27
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 21:19:39
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 21:19:39
+[INFO]-[Thread: qtp1978279235-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 21:16:07.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1234576, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:07.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:20, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:19:43
+[INFO]-[Thread: qtp1978279235-18]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 21:16:07.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1234576, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:07.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:20, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:19:55
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 21:19:55
+[INFO]-[Thread: Thread-29]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 21:19:55
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 21:19:55
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqqxxxxx.yyw
+
+2018-01-23 21:19:55
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesyayawan_game_id  kk1234576
+
+2018-01-23 21:19:55
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其5
+
+2018-01-23 21:19:55
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 21:19:55
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 21:19:55
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 21:19:56
+[INFO]-[Thread: Thread-31]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 21:19:56
+[INFO]-[Thread: Thread-31]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 21:20:01
+[INFO]-[Thread: qtp1978279235-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 21:16:07.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1234576, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:16:07.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:20, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:1, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:20:09
+[INFO]-[Thread: Thread-31]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 21:20:10
+[INFO]-[Thread: Thread-31]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 21:20:10
+[INFO]-[Thread: Thread-31]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 21:20:11
+[INFO]-[Thread: Thread-31]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 21:20:16
+[INFO]-[Thread: Thread-31]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 21:20:19
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq5.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 21:20:25
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 21:22:32
+[INFO]-[Thread: qtp1978279235-19]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-23 21:22:37
+[INFO]-[Thread: qtp1978279235-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-23 21:22:45
+[INFO]-[Thread: qtp1978279235-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[]
+
+2018-01-23 21:22:50
+[INFO]-[Thread: qtp1978279235-17]-[com.demo.admin.AdminController.childpackagelistindex()]: []
+
+2018-01-23 21:27:46
+[INFO]-[Thread: qtp1978279235-20]-[com.demo.admin.AdminController.childpackagelistindex()]: []
+
+2018-01-23 21:28:01
+[INFO]-[Thread: qtp1978279235-21]-[com.demo.admin.AdminController.childpackagelistindex()]: [{createtime:2018-01-23 21:28:01.0, ispacked:null, gamename:王者千其3, gamesourceid:wzqq3, gamepackagename:com.wzhqqxx.yyw, updatetime:2018-01-23 21:28:01.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:15, gameplatformid:kk1516714081301, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq3, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}, {createtime:2018-01-23 21:28:01.0, ispacked:null, gamename:王者千其5, gamesourceid:, gamepackagename:com.wzhqqxxxxx.yyw, updatetime:2018-01-23 21:28:01.0, gamemotherfilename:王者争霸, gamebelongprojectid:10, packinglistid:16, gameplatformid:kk1516714081403, gamemotherfileid:8, gameoutputpath:repackapkapp\wzzb, gamefilename:wzqq5, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:28:31
+[INFO]-[Thread: qtp1978279235-20]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 21:28:34
+[INFO]-[Thread: qtp1978279235-18]-[com.demo.admin.AdminController.addtopacking()]: {createtime:2018-01-23 15:38:19.0, mothergameplatformid:yaya3757990336, apkpath:repackapkapp\wzzb.apk, mothergamename:王者争霸, mothergamesocurceid:wzzb01, mothergamepackagename:com.wzzb.yyw, motherpackageid:8, mothergamebelongprojectname:王者争霸, belongcompany:1}
+
+2018-01-23 21:28:35
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 21:28:31.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1516714081301, gamesocurceid:wzqq3, gamefilename:wzqq3, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:28:31.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其3, gamepackagename:com.wzhqqxx.yyw, gamemotherfilename:王者争霸, packinglistid:21, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 21:28:35
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 21:28:36
+[INFO]-[Thread: qtp1978279235-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 21:28:31.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1516714081301, gamesocurceid:wzqq3, gamefilename:wzqq3, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:28:31.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其3, gamepackagename:com.wzhqqxx.yyw, gamemotherfilename:王者争霸, packinglistid:21, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 21:28:34.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1516714081403, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:28:34.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:22, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:28:44
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 21:28:44
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 21:28:44
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 21:28:44
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 21:28:45
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 21:28:45
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 21:28:46
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 21:28:46
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 21:29:02
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 21:29:08
+[INFO]-[Thread: qtp1978279235-20]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 21:28:31.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1516714081301, gamesocurceid:wzqq3, gamefilename:wzqq3, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:28:31.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其3, gamepackagename:com.wzhqqxx.yyw, gamemotherfilename:王者争霸, packinglistid:21, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 21:28:34.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1516714081403, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:28:34.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:22, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:29:11
+[INFO]-[Thread: qtp1978279235-21]-[com.demo.admin.AdminController.packingindex()]: 打包列表：[{updatetime:2018-01-23 21:28:31.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1516714081301, gamesocurceid:wzqq3, gamefilename:wzqq3, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:28:31.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其3, gamepackagename:com.wzhqqxx.yyw, gamemotherfilename:王者争霸, packinglistid:21, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}, {updatetime:2018-01-23 21:28:34.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1516714081403, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:28:34.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:22, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}]
+
+2018-01-23 21:29:15
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 21:29:15
+[INFO]-[Thread: Thread-33]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 21:29:15
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 21:29:15
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqqxx.yyw
+
+2018-01-23 21:29:15
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesqianguo_app_id  kk1516714081301
+
+2018-01-23 21:29:15
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其3
+
+2018-01-23 21:29:15
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 21:29:15
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 21:29:15
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 21:29:15
+[INFO]-[Thread: Thread-35]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 21:29:16
+[INFO]-[Thread: Thread-35]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 21:29:28
+[INFO]-[Thread: Thread-35]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 21:29:30
+[INFO]-[Thread: Thread-35]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 21:29:30
+[INFO]-[Thread: Thread-35]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 21:29:30
+[INFO]-[Thread: Thread-35]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 21:29:35
+[INFO]-[Thread: Thread-35]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 21:29:38
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq3.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 21:29:44
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。
+
+2018-01-23 21:29:54
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         正在打包参数。。。{updatetime:2018-01-23 21:28:34.0, gamemothername:王者争霸, gamemotherpackagename:com.wzzb.yyw, gameplatformid:kk1516714081403, gamesocurceid:, gamefilename:wzqq5, gameoutputpath:repackapkapp\wzzb, createtime:2018-01-23 21:28:34.0, ispacked:0, mothergameplatformid:yaya3757990336, gamename:王者千其5, gamepackagename:com.wzhqqxxxxx.yyw, gamemotherfilename:王者争霸, packinglistid:22, gamemotherfileid:8, gamemotherfilepath:repackapkapp\wzzb.apk, gamebelongprojectname:null, belongcompany:2, gameiconpath:repackapkapp\至尊.zip}
+
+2018-01-23 21:29:54
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd /c  apktool d -f D:\repackapkapp\wzzb.apk -o D:\repackapkapp\app
+
+2018-01-23 21:30:02
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1 on wzzb.apk
+
+2018-01-23 21:30:02
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table...
+
+2018-01-23 21:30:03
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding AndroidManifest.xml with resources...
+
+2018-01-23 21:30:03
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Loading resource table from file: C:\Users\Administrator\apktool\framework\1.apk
+
+2018-01-23 21:30:03
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Regular manifest package...
+
+2018-01-23 21:30:04
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding file-resources...
+
+2018-01-23 21:30:05
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Decoding values */* XMLs...
+
+2018-01-23 21:30:05
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Baksmaling classes.dex...
+
+2018-01-23 21:30:15
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying assets and libs...
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files...
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-37]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying original files...
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         解压成功。。。
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         在修改包名：com.wzzb.yyw  com.wzhqqxxxxx.yyw
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         修改valuesqianguo_app_id  kk1516714081403
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         更改应用名：王者争霸  王者千其5
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon名字:@drawable/icon
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         icon改后:D:\repackapkapp\至尊\res========D:\repackapkapp\app\res
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包的命令：cmd.exe /c apktool b -f D:\repackapkapp\app -o D:\repackapkapp\app.apk
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-39]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Using Apktool 2.0.1
+
+2018-01-23 21:30:31
+[INFO]-[Thread: Thread-39]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Smaling smali folder into classes.dex...
+
+2018-01-23 21:30:43
+[INFO]-[Thread: Thread-39]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building resources...
+
+2018-01-23 21:30:44
+[INFO]-[Thread: Thread-39]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/lib)
+
+2018-01-23 21:30:44
+[INFO]-[Thread: Thread-39]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying libs... (/libs)
+
+2018-01-23 21:30:44
+[INFO]-[Thread: Thread-39]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Building apk file...
+
+2018-01-23 21:30:49
+[INFO]-[Thread: Thread-39]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         I: Copying unknown files/dir...
+
+2018-01-23 21:30:52
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         cmd.exe /c jarsigner -keystore D:\repackapkapp\yayawan.keystore -storepass 43597441 -keypass 43597441 -signedjar D:\repackapkapp\wzzb\wzqq5.apk D:\repackapkapp\app.apk wjy
+
+2018-01-23 21:30:58
+[INFO]-[Thread: Thread-19]-[com.jiafan.utils.PackingRunable.textLog()]: packing======         打包成功。。。

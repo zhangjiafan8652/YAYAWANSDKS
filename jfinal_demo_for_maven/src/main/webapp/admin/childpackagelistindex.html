@@ -1,0 +1,352 @@
+#@menulayout() #define main()
+
+
+<!-- start: Content -->
+<div id="content">
+
+
+	<div class="panel box-shadow-none content-header">
+		<div class="panel-body">
+			<div class="col-md-12">
+				<h3 class="animated fadeInLeft">#(mcompany.companyname)项目表</h3>
+				<p class="animated fadeInDown">
+					Table <span class="fa-angle-right fa"></span> Data Tables
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-10">
+		<div id="addprojectsbutton" class="col-md-4 ">
+			<input type="button" class="btn btn-primary" value="批量导入子项目" />
+		</div>
+		<div id="addprojectbutton" class="col-md-4">
+			<input type="button" class="btn btn-primary" value="添加子项目" />
+		</div>
+	</div>
+
+
+	<!-- 导入表格表单开始 -->
+	<div class="col-md-10">
+		<div hidden="hidden" id="xlsxprojectaddform" class="col-md-12 panel">
+			<div class="col-md-12 panel-heading">
+				<h4>导入表格</h4>
+			</div>
+			<div class="col-md-12 panel-body" style="padding-bottom:30px;">
+				<div class="col-md-12">
+					<form class="cmxform" id="signupForm" method="get"
+						action="/admin/addchildpackagebyxlsx">
+						<div class="col-md-6">
+							<div class="form-group form-animate-text"
+								style="margin-top:40px !important;">
+								<input type="text" class="form-text" id="xlsxfilepath"
+									name="xlsxfilepath" required> <span class="bar"></span>
+								<label>表格存放路径</label>
+							</div>
+
+						</div>
+
+						<input id="companyidinputs" type="text" class="form-text"
+							id="projectname" name="companyid" value="#(mcompany.companyid)"
+							required>
+
+
+						<div class="col-md-12" style="margin: 10px;width: 100px;">
+							<input class="submit btn btn-danger" type="submit" value="提交">
+						</div>
+						<div id="cancels" class="col-md-12"
+							style="margin: 10px;width: 100px;">
+							<input class="submit btn btn-danger" value="取消">
+						</div>
+					</form>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 导入表格表单结束 -->
+
+	<div class="col-md-10">
+		<div hidden="hidden" id="projectaddform" class="col-md-12 panel">
+			<div class="col-md-12 panel-heading">
+				<h4>添加项目</h4>
+			</div>
+			<div class="col-md-12 panel-body" style="padding-bottom:30px;">
+				<div class="col-md-12">
+					<form class="cmxform" id="signupForm" method="get"
+						action="/admin/addchildpackage">
+						<div class="col-md-6">
+							<div class="form-group form-animate-text"
+								style="margin-top:40px !important;">
+								<input type="text" class="form-text" id="mothergamename"
+									name="childpackagelist.gamename" required> <span
+									class="bar"></span> <label>游戏名字</label>
+							</div>
+
+						</div>
+						<div class="col-md-6">
+							<div class="form-group form-animate-text"
+								style="margin-top:40px !important;">
+								<input type="text" class="form-text" id="mothergamepackagename"
+									name="childpackagelist.gamepackagename" required> <span
+									class="bar"></span> <label>包名</label>
+							</div>
+
+						</div>
+						<div class="col-md-6">
+							<div class="form-group form-animate-text"
+								style="margin-top:40px !important;">
+								<input type="text" class="form-text" id="mothergamesocurceid"
+									name="childpackagelist.gameiconpath" required> <span
+									class="bar"></span> <label>图标路径iconpath</label>
+							</div>
+
+						</div>
+						<div class="col-md-6">
+							<div class="form-group form-animate-text"
+								style="margin-top:40px !important;">
+								<input type="text" class="form-text" id="mothergameplatformid"
+									name="childpackagelist.gamefilename" required> <span
+									class="bar"></span> <label>游戏文件名</label>
+							</div>
+
+						</div>
+						<div class="col-md-6">
+							<div class="form-group form-animate-text"
+								style="margin-top:40px !important;">
+								<input type="text" class="form-text" id="apkpath"
+									name="childpackagelist.gameoutputpath" required> <span
+									class="bar"></span> <label>生成apk存放路径</label>
+							</div>
+
+						</div>
+						<div class="col-md-6">
+							<div class="form-group form-animate-text"
+								style="margin-top:40px !important;">
+								<input type="text" class="form-text" id="apkpath"
+									name="childpackagelist.gamesourceid" required> <span
+									class="bar"></span> <label>sourceid</label>
+							</div>
+
+						</div>
+						<div class="col-md-6">
+							<div class="form-group form-animate-text"
+								style="margin-top:40px !important;">
+								<input type="text" class="form-text" id="apkpath"
+									name="childpackagelist.gameplatformid" required> <span
+									class="bar"></span> <label>平台id</label>
+							</div>
+
+						</div>
+						<input id="companyidinput" type="text" class="form-text"
+							id="projectname" name="companyid" value="#(mcompany.companyid)"
+							required>
+						<div class="form-group col-md-8">
+							<label class="col-sm-2 control-label text-right">所属项目</label>
+							<div class="col-sm-6">
+								<div class="col-sm-12 padding-0">
+									<select name="childpackagelist.gamebelongprojectid"
+										class="form-control"> #for(x :mprojects)
+										<option value="#(x.projectid)">#(x.projectname)</option> #end
+									</select>
+								</div>
+
+							</div>
+						</div>
+						<div class="form-group col-md-8">
+							<label class="col-sm-2 control-label text-right">所属母包</label>
+							<div class="col-sm-6">
+								<div class="col-sm-12 padding-0">
+									<select name="childpackagelist.gamemotherfileid"
+										class="form-control"> #for(x :motherpackagelist)
+										<option value="#(x.motherpackageid)">#(x.mothergamename)</option>
+										#end
+									</select>
+								</div>
+
+							</div>
+						</div>
+						<div class="col-md-12" style="margin: 10px;width: 100px;">
+							<input class="submit btn btn-danger" type="submit" value="提交">
+						</div>
+						<div id="cancel" class="col-md-12"
+							style="margin: 10px;width: 100px;">
+							<input class="submit btn btn-danger" value="取消">
+						</div>
+					</form>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+	<div class="col-md-12 top-20 padding-0">
+		<div class="col-md-12">
+			<div class="panel">
+				<div class="panel-heading"></div>
+
+				<div class="panel-body">
+					<div class="responsive-table">
+						<table id="datatables-child"
+							class="table table-striped table-bordered" width="100%"
+							cellspacing="0">
+							<thead>
+
+								<tr>
+									<th>编号</th>
+									<th>名字</th>
+									<th>包名</th>
+
+									<th>icon路径</th>
+									<th>文件名</th>
+									<th>生成文件存放路径</th>
+
+									<th>母包名字</th>
+									<th>socurceid</th>
+									<th>平台id</th>
+
+									<th>创建时间</th>
+									<th>加入打包</th>
+
+								</tr>
+							</thead>
+							<tbody>
+								<!-- #for(x :mchildpackagelist)
+								<tr>
+									<td>#(x.packinglistid)</td>
+									<td>#(x.gamename)</td>
+									<td>#(x.gamepackagename)</td>
+
+									<td>#(x.gameiconpath)</td>
+									<td>#(x.gamefilename)</td>
+									<td>#(x.gameoutputpath)</td>
+
+									<td>#(x.gamemotherfilename)</td>
+									<td>#(x.gamesourceid)</td>
+									<td>#(x.gameplatformid)</td>
+
+									<td>#(x.createtime)</td>
+									<td>
+										<div class="col-md-6" style="margin-top:0px;">
+											<button
+												onclick="addtopacking(#(mcompany.companyid),#(x.packinglistid))"
+												class="btn ripple-infinite btn-raised btn-success">
+												<div>
+													<span>加入打包</span>
+												</div>
+											</button>
+										</div>
+									</td>
+
+								</tr>
+								#end -->
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end: content -->
+
+
+<script type="text/javascript">
+<!--
+	//-->
+	$("#addprojectbutton").click(function() {
+		$("#projectaddform").show();
+	});
+	$("#addprojectsbutton").click(function() {
+		$("#xlsxprojectaddform").show();
+	});
+	$("#cancel").click(function() {
+		$("#projectaddform").hide();
+
+	});
+	$("#cancels").click(function() {
+
+		$("#xlsxprojectaddform").hide();
+	});
+
+	$('#companyidinput').hide();
+	$('#companyidinputs').hide();
+
+	function addtopacking(childid) {
+		$.ajax({
+			type : "POST", //提交方式  
+			url : "/admin/addtopacking",//路径  
+			data : {
+				"companyid" : #(mcompany.companyid),
+				"childid" : childid
+
+			},//数据，这里使用的是Json格式进行传输  
+			success : function(result) {//返回数据根据结果进行相应的处理  
+				console.log("添加packing返回值" + result.issave);
+
+			}
+		});
+	}
+</script>
+<script type="text/javascript">
+	$(document)
+			.ready(
+					function() {
+						$('#datatables-child')
+								.DataTable(
+										{
+											"order" : [ [ 0, "desc" ] ],
+											"processing" : true,
+											//每页显示三条数据
+											pageLength : 10,
+											"serverSide" : true,
+											"ajax" : "http://192.168.204.156:8888/admin/childpackagelistpage?companyid=2",
+											"columns" : [ {
+												"data" : "packinglistid"
+											}, {
+												"data" : "gamename"
+											}, {
+												"data" : "gamepackagename"
+											},
+
+											{
+												"data" : "gameiconpath"
+											}, {
+												"data" : "gamefilename"
+											}, {
+												"data" : "gameoutputpath"
+											},
+
+											{
+												"data" : "gamemotherfilename"
+											}, {
+												"data" : "gamesourceid"
+											}, {
+												"data" : "gameplatformid"
+											},
+
+											{
+												"data" : "createtime"
+											}, {
+												"data" : "packinglistid"
+											} ],
+											"columnDefs" : [
+													
+													{
+														"render" : function(
+																data, type,
+																row, meta) {
+															//渲染 把数据源中的标题和url组成超链接
+															return '<div class="col-md-6" style="margin-top:0px;"> <button onclick="addtopacking('+data+')" class="btn ripple-infinite btn-raised btn-success"><div><span>加入打包</span></div></button></div>';
+														},
+														//指定是第三列
+														"targets" : 10
+													} ]
+
+										});
+					});
+</script>
+#end

@@ -3,7 +3,7 @@ package com.yayawan.sdk.jflogin;
 public class StringConstants {
 	
 	//qq客服url，uin为为qq账号
-	public static String QQ_KEFUURL="mqqwpa://im/chat?chat_type=wpa&uin=800821234&version=1"; 
+	public static String QQ_KEFUURL="mqqwpa://im/chat?chat_type=wpa&uin=4000042115&version=1"; 
 	
 	public static String CHUXUKA_HELP1="  1.请确宝您填写的手机号和当时开卡行预留的手机号一致)";
 	public static String CHUXUKA_HELP2="  2.单卡单笔1000元，单卡单日5000元，单卡当月10000";

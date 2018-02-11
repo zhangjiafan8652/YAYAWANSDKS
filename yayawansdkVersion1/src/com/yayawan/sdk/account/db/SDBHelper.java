@@ -8,10 +8,13 @@ import android.os.Environment;
  */
 public class SDBHelper {
 
+	
+	public static String Rootpath="yayaUserData";
+	
     public static String DB_DIR = Environment.getExternalStorageDirectory()
             .getPath()
             + File.separator
-            + "yayaUserData"
+            + Rootpath
             + File.separator
             + SDBHelper.class.getPackage().getName();
     static {
@@ -27,11 +30,11 @@ public class SDBHelper {
         if (Environment.getExternalStorageState().equals(
                 Environment.MEDIA_MOUNTED)) {
             DB_DIR = Environment.getExternalStorageDirectory().getPath()
-                    + File.separator + "yayaUserData" + File.separator
+                    + File.separator +Rootpath + File.separator
                     + SDBHelper.class.getPackage().getName();
         } else {
             DB_DIR = Environment.getRootDirectory().getPath() + File.separator
-                    + "yayaUserData" + File.separator
+                    + Rootpath+ File.separator
                     + SDBHelper.class.getPackage().getName();
         }
 
